@@ -144,7 +144,7 @@
 | 连续两轮返回 404 → 进 `retired.json` | 17 |
 | 补齐第一手 `og:` 元数据的条目 | 4230 |
 | 官方页名称与社区目录不一致的条目 | 107（5 条实质性，27 条仅限定词差异）|
-| 能追溯到 2 个以上上游目录的条目 | 3245 |
+| 能追溯到 2 个以上上游目录的条目 | 3243 |
 | 带中文摘要的条目 | 4230 / 4230 |
 
 你可以自己复现：[`scripts/check_links.py`](scripts/check_links.py) 重新扫一遍所有分享，[`scripts/lint.py`](scripts/lint.py) 按 [`schema/entry.schema.json`](schema/entry.schema.json) 校验。方法说明见 [docs/method.md](docs/method.md)。

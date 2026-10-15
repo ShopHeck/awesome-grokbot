@@ -143145,8 +143145,8 @@
         "handle": "michaelheckert",
         "url": "https://x.com/michaelheckert"
       },
-      "summary": "Subscription and recurring-bill watchdog: finds forgotten subscriptions, trials and price hikes, and drafts cancellations for your approval.",
-      "summary_zh": "订阅与周期账单看门狗：揪出被遗忘的订阅、即将转正的试用和悄悄涨价，起草退订请求，经你确认后再处理。",
+      "summary": "Subscription watchdog: finds forgotten subscriptions, trials and price hikes, drafts cancellations.",
+      "summary_zh": "订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。",
       "official_summary": "Finds money leaks in your business, like unused subscriptions, surprise renewals, and wasted spend, and keeps you on track to cut them. For solo...",
       "import": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO",
       "bot_id": "8q0BDryA7qBsMmrXGoypO",
@@ -143161,10 +143161,6 @@
         {
           "catalog": "x.ai share page",
           "url": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO"
-        },
-        {
-          "catalog": "@michaelheckert on X",
-          "url": "https://x.com/michaelheckert"
         }
       ],
       "checked": "2026-10-15",
@@ -143179,8 +143175,8 @@
         "handle": "michaelheckert",
         "url": "https://x.com/michaelheckert"
       },
-      "summary": "Open-loop and follow-up closer: tracks every follow-up you owe or are owed and drafts the nudge for your approval.",
-      "summary_zh": "待办闭环与跟进助手：盯住你欠别人和别人欠你的每一次回复，起草催办消息，经你确认后才发出。",
+      "summary": "Open-loop closer: tracks every follow-up you owe or are owed and drafts the nudge for approval.",
+      "summary_zh": "待办闭环助手：盯住你欠别人和别人欠你的每一次跟进，起草催办供你确认。",
       "official_summary": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK.",
       "import": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
       "bot_id": "_abcO9nWji9H9yX1r9XGV",
@@ -143195,10 +143191,6 @@
         {
           "catalog": "x.ai share page",
           "url": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV"
-        },
-        {
-          "catalog": "@michaelheckert on X",
-          "url": "https://x.com/michaelheckert"
         }
       ],
       "checked": "2026-10-15",

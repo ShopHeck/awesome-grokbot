@@ -144,7 +144,7 @@ The catalog is a merge of four community sources plus a first-party verification
 | Answered 404 across two sweeps → `retired.json` | 17 |
 | Rows enriched with first-party `og:` metadata | 4230 |
 | Rows whose live name differs from the community catalogs | 107 (5 substantive, 27 qualifier-only) |
-| Rows attributed to 2+ upstream catalogs | 3245 |
+| Rows attributed to 2+ upstream catalogs | 3243 |
 | Rows with a Chinese summary | 4230 / 4230 |
 
 Reproduce it yourself with [`scripts/check_links.py`](scripts/check_links.py) (re-sweeps every share) and [`scripts/lint.py`](scripts/lint.py) (validates against [`schema/entry.schema.json`](schema/entry.schema.json)). Method notes: [docs/method.md](docs/method.md).
