@@ -7,14 +7,14 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4228,
+    "live": 4230,
     "retired": 17,
     "by_category": {
       "coding-shipping": 304,
-      "inbox-calendar": 378,
+      "inbox-calendar": 379,
       "research-briefings": 689,
       "customer-sales": 265,
-      "finance-ops": 270,
+      "finance-ops": 271,
       "content-publishing": 433,
       "personal-admin": 1666,
       "teams-handoffs": 223
@@ -143136,6 +143136,66 @@
       "checked": "2026-10-15",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cut-man",
+      "name": "Cut Man",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Subscription watchdog: finds forgotten subscriptions, trials and price hikes, drafts cancellations.",
+      "summary_zh": "订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。",
+      "official_summary": "Finds money leaks in your business, like unused subscriptions, surprise renewals, and wasted spend, and keeps you on track to cut them. For solo...",
+      "import": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO",
+      "bot_id": "8q0BDryA7qBsMmrXGoypO",
+      "category": "finance-ops",
+      "tags": [
+        "subscriptions",
+        "bills",
+        "savings",
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO"
+        }
+      ],
+      "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "rematch",
+      "name": "Rematch",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Open-loop closer: tracks every follow-up you owe or are owed and drafts the nudge for approval.",
+      "summary_zh": "待办闭环助手：盯住你欠别人和别人欠你的每一次跟进，起草催办供你确认。",
+      "official_summary": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK.",
+      "import": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+      "bot_id": "_abcO9nWji9H9yX1r9XGV",
+      "category": "inbox-calendar",
+      "tags": [
+        "follow-up",
+        "email",
+        "productivity",
+        "assistant"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV"
+        }
+      ],
+      "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }
