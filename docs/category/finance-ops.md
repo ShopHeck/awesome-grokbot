@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-271 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+272 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -225,6 +225,7 @@
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) — Runs a small product business with a crew of specialist Grok Bots. Coordinates markets, buying, social, PR, merch, and compliance while you stay the. <sub>by [Joseph](https://x.com/texastoylab) (@texastoylab)</sub>
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) — Sorts the dead weight out of your X follows without hitting real people. <sub>by [JC](https://x.com/JoshuaRCook) (@JoshuaRCook) · [origin](https://x.com/JoshuaRCook/status/2096915469462593638)</sub>
 - [Squeeze](https://x.ai/bot/IbiO4Zxh5PecNXbMRnx64) — A money-recovery assistant that chases refunds and price adjustments, audits subscriptions and fees, and hunts free products, samples and sign-up. <sub>by [Procount](https://x.com/Jack) (@Jack)</sub>
+- [Startup Grant Scout](https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q) — Finds open non-dilutive startup grants, scores fit, and drafts applications for your approval. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stay Scout](https://x.ai/bot/xjEH-3GGxRroI0RK5nKf7) — Finds places to stay that fit your budget and watches nightly rates until you book, pinging you only when a price really drops. <sub>by [Doug](https://x.com/dwbanks) (@dwbanks)</sub>
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — An understated money sidekick that watches the balances and stays hands-off. <sub>by [FSD](https://x.com/jchybow) (@jchybow) · [origin](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — One-stop finance Controller for first-principles, full-automation accounting. <sub>by [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>
