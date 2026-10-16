@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-265 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+271 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -53,6 +53,7 @@
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) — 在 ContentDrips 做社媒图与轮播，写简单文案并预约到 LinkedIn 与 Instagram。 <sub>作者 [Usama](https://x.com/im_usamakhalid) (@im_usamakhalid)</sub>
 - [Contra Job Sniper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) — 每六小时扫一次 Contra 接案流，有变才发邮件。 <sub>作者 [Srujal](https://x.com/techking_007) (@techking_007) · 社区旧称 *Contra Job Scraper* · [出处](https://x.com/techking_007/status/2093415230932177139)</sub>
 - [Contrarian](https://x.ai/bot/BawAoz1FeYXd6HzBqWntt) — 尖锐思考搭子，先唱反调并做事前验尸再让你拍板。 <sub>作者 [Calix](https://x.com/Calix)</sub>
+- [Crankobot](https://x.ai/bot/uGxaqcDRbn8cO4k-p3bAg) — 从公开信号里找有证据支撑的潜在首批客户、内测用户和设计合作伙伴。 <sub>作者 [kekko](https://x.com/Kappaemmedev) (@Kappaemmedev)</sub>
 - [CREW CHIEF](https://x.ai/bot/o1WooIlDtZTeyXf9sigG-) — MSP 日常服务的班组长台。 <sub>作者 [Jeremiah](https://x.com/TechHandPro) (@TechHandPro)</sub>
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) — 让多机器人赚钱小队继续转，小时级催工并优先应用，销售触达目录一次更新一个机器人。
 - [CRM Operations Manager](https://x.ai/bot/s162b4ed38d6cf1d56731) <sup>官方</sup> — 保持管道干净：会前会后自动整理 CRM 和组织架构，记录不用手工补。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -157,6 +158,7 @@
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) — AI 视频与工作室走向市场机器人，生成并迭代短视频、审计社交、起草广告。 <sub>作者 [Patrick](https://x.com/sheridap) (@sheridap)</sub>
 - [Meeting Prep Buddy](https://x.ai/bot/s445a0c9a2ca4bea7729e) <sup>官方</sup> — 每场会都有备而去：从日历、笔记、CRM、Gong、Slack 汇出与会人、上次接触和未决事项。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) <sup>官方</sup> — 周边寄给对的人：做触达、盯兑换表单、在聊天里问你批不批，通过了就发货。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Merchy](https://x.ai/bot/uYI1q2h7nf7wynlwMaW2Z) — 按需印制周边的机器人：通过 Printful 把精彩时刻、帖子和粉丝请求变成你 Shopify 店里的商品。 <sub>作者 [Farzad](https://x.com/farzyness) (@farzyness)</sub>
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) — 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号。 <sub>作者 [Darius](https://x.com/dariusgaynor) (@dariusgaynor)</sub>
 - [Mudbot](https://x.ai/bot/9DytLoUb-ZzzYb_Skem68) — 销售线索与触达助手。 <sub>作者 Jack (@community)</sub>
 - [Music PR Bot](https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP) — 专辑外联，每日推介、草稿、电台/媒体 CRM。 <sub>作者 [Dani](https://x.com/Danihakim73) (@Danihakim73)</sub>
@@ -175,6 +177,7 @@
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — 把 Google Ads、Meta 与 LinkedIn 导出收成带点评的周报，并在 Slack 用真数回答。
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) — 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方。 <sub>作者 [Dr.](https://x.com/SurrealSpin) (@SurrealSpin)</sub>
 - [Personal Assistant](https://x.ai/bot/3hissja8d2xjHliXdnmm4) — 物业跟进用的房东外联台。 <sub>作者 [Alex](https://x.com/Lex_Vasquez23) (@Lex_Vasquez23) · 社区旧称 *Chase*</sub>
+- [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) — 你的求职搭档：寻找并给职位打分，维护你的简历（Word 和 PDF），追踪每份申请并起草外联消息。 <sub>作者 [Jay](https://x.com/ptyfly4aputiguy) (@ptyfly4aputiguy)</sub>
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) — 研究目标客户，从播客里挖真正能开口的钩子。 <sub>作者 [Krista](https://x.com/kristaletz) · [出处](https://x.com/kristaletz/status/2093378627932918087)</sub>
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) — AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [Phone with Bland](https://x.ai/bot/4BmzjFu_i3mVd58irr1x1) — 给任意 Grok Bot 专属电话与声音，可代发短信与打电话订餐、跟进线索。 <sub>作者 [Cole](https://x.com/usebland) (@usebland)</sub>
@@ -201,6 +204,7 @@
 - [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) — 跨 LinkedIn、Instagram、TikTok、Pinterest 与 X 的多表面社交分发代理。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>官方</sup> — 每次续约都已经摸过底：按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Reply Desk](https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf) — 为本地服务生意起草客户邮件消息与评价回复，从不代发。 <sub>作者 [Brian](https://x.com/lonzom10) (@lonzom10) · [出处](https://x.com/lonzom10/status/2103749418457681951)</sub>
+- [Revenue Agent](https://x.ai/bot/mJQ2T8kGcq0fv3wegFlWF) — 每个工作日多次筛查 X 上公开的需要审计、QoE、税务或其他 CPA 服务的个人和公司，并给线索排序。 <sub>作者 [Arush](https://x.com/Arushj01) (@Arushj01)</sub>
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) — 赋能问题的统一入口，再路由到对的专项技能。 <sub>作者 [Nathan](https://x.com/nathanclark_) (@nathanclark_) · [出处](https://x.com/nathanclark_/status/2096204922907963834)</sub>
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — 找出已经躺在 HubSpot 管道里的收入机会。 <sub>作者 [Eric](https://x.com/ericosiu) (@ericosiu) · [出处](https://x.com/ericosiu/status/2095629858630160695)</sub>
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) — 按你店铺口吻起草评价回复，按星级分类，每条经你批准。 <sub>作者 [Liftably](https://x.com/AraXsuper) (@AraXsuper) · [出处](https://x.com/AraXsuper/status/2103185829615038718)</sub>
@@ -227,6 +231,7 @@
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — 食品厂、代工或调味料店的常设运营桌，从销售订单到原料采购、按预测做自制或外购，以及包装核对。 <sub>作者 [Vince](https://x.com/VinceWilliams21) (@VinceWilliams21) · [出处](https://x.com/VinceWilliams21/status/2100013315321933905)</sub>
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏。 <sub>作者 [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — 通过官方插件日常打理 Shopify 店铺：整理商品、盯库存、优化转化、回复顾客问题。 <sub>作者 [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [出处](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
+- [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) — 每天盯你的 Shopify 店铺（订单、支付、库存、前台和结账），一切正常时不打扰。 <sub>作者 [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) — 在 CRM 和产品数据里找刚表现出意向的客户和人，排序后起草第一封触达。
 - [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) — 只看某 X 账号原创帖，排出点赞/转发/引用/回复四份前20支持者榜。 <sub>作者 [Orah](https://x.com/OrahOnX) (@OrahOnX)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。
@@ -253,6 +258,7 @@
 - [Ticket Desk](https://x.ai/bot/47iWfw0I5xxt6uPqKj52G) — 标出紧急工单，按你的文档起草回复，把答不上的问题写成帮助文章草稿；从不自动发送。 <sub>作者 Screaming</sub>
 - [Ticket Triage Specialist](https://x.ai/bot/s7aaf6431077930df326f) <sup>官方</sup> — 清队列但不用守着：按节奏盯工单，只出回复草稿，没事的时候不吵你。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) — 本地营销机构的幕僚长，跨客户跑专家，公开作品先起草后批准，交付谷歌商家资料、社交、SEO 博客。 <sub>作者 [Tripper](https://x.com/TripperWood) (@TripperWood)</sub>
+- [Tracking Tuna Officer](https://x.ai/bot/xy9stZRQESHWGilhQl9Nf) — 盯你 Shopify 店铺已发货的订单：每周检查每个包裹的物流并记进表格。 <sub>作者 [Fish](https://x.com/FishxCD) (@FishxCD)</sub>
 - [Travel Bot](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) — 向旅行品牌争取住宿换内容合作，跟进回复并为创作者规划 Reels。 <sub>作者 [Lovable](https://x.com/_lovablecurves) · 社区旧称 *Travel Influencer Outreach* · [出处](https://x.com/_lovablecurves/status/2101139367091736589)</sub>
 - [Validator Pilot](https://x.ai/bot/Sk7NG2L340MAottFXFRaE) — 付费 30 天 Stability Validator 试点：登记用例和席位，外加待人工审核的使用许可草稿。 <sub>作者 Sean</sub>
 - [Venduto](https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp) — 打理欧洲二手挂单，从首询到议价成交，重要承诺仍需你盯着。 <sub>作者 [Tommaso](https://x.com/SuperTost100) (@SuperTost100) · [出处](https://x.com/SuperTost100/status/2100149576388743291)</sub>

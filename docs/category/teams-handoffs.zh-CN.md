@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-223 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+224 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -113,6 +113,7 @@
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — 把项目中途的噪音收成一件最紧要的事、三步动作和负责人。 <sub>作者 [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [出处](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
 - [Handoff](https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz) — 跨机器人交接与任务接力。 <sub>作者 [Scott](https://x.com/SkippyyTM) (@SkippyyTM) · [出处](https://x.com/SkippyyTM/status/2105731364217639007)</sub>
+- [Handoff](https://x.ai/bot/wXaXn5rj0pJIMzzonyXsl) — 通过 RentAHuman 或 Fiverr 雇真人把事办成，费用先经你同意，再把结果带回来。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen)</sub>
 - [Handoff Bridge](https://x.ai/bot/C0Y39IIyol0PV6GDN9OgX) — 把你的 Cursor 助手和接不进 Cursor 的外部 AI（比如 Meta AI）连起来，靠电脑上的一个简单任务文件夹交接。 <sub>作者 [green](https://x.com/ohio_dino) (@ohio_dino)</sub>
 - [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — 只读侦察，给变化打分并向上汇报。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — 老练首席参谋，把杂事派给其它机器人，只在关键决策时喊你。 <sub>作者 [Gilles](https://x.com/GillesGuenette3) · [出处](https://x.com/GillesGuenette3)</sub>

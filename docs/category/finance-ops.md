@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-272 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+277 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -100,6 +100,7 @@
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) — Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and. <sub>by [Maail](https://x.com/maail)</sub>
 - [Finance Fish](https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo) — Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only; never moves money without your yes. <sub>by [Bo](https://x.com/CaptPirateBo) (@CaptPirateBo)</sub>
 - [Financial Advisor](https://x.ai/bot/FlK_S-je8TVcA-kH9r40p) — Everyday budgeting and savings planning over your own account balances. <sub>by [Michael](https://x.com/shamash31) (@shamash31) · [origin](https://x.com/shamash31/status/2105366195880825267)</sub>
+- [First-Week Coach](https://x.ai/bot/samFY0kZtZeVHci9gWkqk) — Interviews your week, ships one safe win today, then the next bot, skill, or routine — one at a time. Never sends, spends, or posts without your yes. <sub>by [Big](https://x.com/socalfsd) (@socalfsd)</sub>
 - [Fix-It Fred](https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6) — Suggests 3 small home projects that fit your skills and budget; renters get deposit-safe ideas. <sub>by [Rodrigo](https://x.com/RSebastian74) (@RSebastian74)</sub>
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — Hand it the admin thing you keep putting off and it gets it nearly solved. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · aka *Fixer (Liam)* · [origin](https://x.com/liam_fallen/status/2093383129780109562)</sub>
 - [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) — London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings inside your free. <sub>by [Ash](https://x.com/0xashrk) (@0xashrk)</sub>
@@ -115,6 +116,7 @@
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) — Spanish back-office manager for till close, ledgers, stock and listings. <sub>by [Jonathan](https://x.com/JASCPROVZ) (@JASCPROVZ) · [origin](https://x.com/JASCPROVZ/status/2096095142478258654)</sub>
 - [Gimli](https://x.ai/bot/Gus0sWvCGM8RhHyGED9AF) — Brick / LEGO marketplace store ops: live eBay coverage, BrickLink as inventory system of record, BrickOwl sync when shops are open, and quiet alerts. <sub>by [Stay](https://x.com/RumblinTum) (@RumblinTum)</sub>
 - [Gorlin Syndrome Care Team](https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd) — Practical Tesla ownership assistant for Model 3/Y/Cybertruck drivers: FSD and software notes, tires and wheels, charging, service tips, and early. <sub>by [John](https://x.com/McJohnnymac) (@McJohnnymac) · aka *Tesla Ops*</sub>
+- [Grant Writer](https://x.ai/bot/2IZTIgCPMhL1YaClkudQz) — Drafts grant proposal packages (narrative, budget, bios, checklists) for opportunities you've picked. Never submits or contacts funders without your OK. <sub>by [Daniel](https://x.com/BurtTheAI)</sub>
 - [Grocery and Home Buying](https://x.ai/bot/NrL49IwUkMLbQSl8VHH_S) — Keeps a household regulars catalog from Amazon and Walmart so phrases like “Need jelly” restock the last item you bought. Adds to cart by default. <sub>by [Derek](https://x.com/derekvisch) (@derekvisch)</sub>
 - [Grok Bot](https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc) — Use this template to create a new bot or apply it to an existing bot.
 - [Grokinhood](https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ) — Autonomous live Robinhood trading agent with per-position playbooks and a 30-minute manage cycle. <sub>by [Trey](https://x.com/itll_do) (@itll_do)</sub>
@@ -150,6 +152,7 @@
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) — For litigation firms: tags every matter in the register by forum, nature of dispute and status from a short closed list. <sub>by [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Meeting to Money](https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB) — Route a document to a live person for signing, straight from chat. <sub>by [Keith](https://x.com/SumoSign) (@SumoSign) · aka *SumoSign* · [origin](https://x.com/SumoSign/status/2094633755004821890)</sub>
+- [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) — Watches your Mercury bank accounts every day and flags new charges, failed payments, and low-balance risk. <sub>by [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) — For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US. <sub>by [Minto](https://x.com/mintotsai) (@mintotsai) · [origin](https://x.com/mintotsai/status/2104685752726786544)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — Looks up Australian company records and helps you wire up Milypay. <sub>by [sal](https://x.com/1Milysec) (@1Milysec) · [origin](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) — Read-only Monarch Money desk for balances, recurring, and review queues. <sub>by Robert</sub>
@@ -176,6 +179,7 @@
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — Cash floor coach that keeps checking your balance stays above a floor until payday. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) — Helps you build a first PC within budget with compatible parts. Walks you from goals to a buy list you can trust. <sub>by [Frank](https://x.com/FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2104685484480057697)</sub>
 - [Pelosi](https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x) — Tracks the stock trades members of Congress disclose, starting with Nancy Pelosi, and messages you each weekday morning when a new filing lands, with. <sub>by [Arsenio](https://x.com/amartins02) · [origin](https://x.com/amartins02/status/2104701245684670755)</sub>
+- [Penny Pincher](https://x.ai/bot/zCHIuZXiFzWhQcsmvS-ED) — Token and spend efficiency bot that turns repeated work into free scripts and jobs. <sub>by [Todd](https://x.com/unix2mars) (@unix2mars)</sub>
 - [Personal CFO](https://x.ai/bot/aDCypdpubEzCy_lvlLu3-) — A read-only personal CFO that links your accounts through Plaid and keeps your net worth, allocation, cash flow, debts and alerts current. <sub>by [Peter](https://x.com/peteoconnell) (@peteoconnell)</sub>
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) — Analyses bank CSV for spending, bills, lifestyle creep, and cash flow.
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — An award-travel brain that makes points optimisation effortless. <sub>by [Daniel](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093483181588779415)</sub>
@@ -253,6 +257,7 @@
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — Finds real trip deals from your hub airports, fits them to open calendar windows, and plans by vibe , with honest prices and no invented “normally. <sub>by [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray desk for trading workflows. <sub>by [XO](https://x.com/Ortix008) (@Ortix008)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — TY2026 crypto tax prep for custodial PDF/CSV or connectors, Form 8949 minded with a December TLH check-in. <sub>by [Steve](https://x.com/scgerber) (@scgerber) · [origin](https://x.com/scgerber/status/2105818511629062596)</sub>
+- [Usage Ranger](https://x.ai/bot/omWM6Xdf2cqSFqwCzEFIM) — Tracks your AI tool usage across Cursor, Codex and Claude and sends a short weekday-morning summary of what's left, any extra spend. <sub>by [Nomis](https://x.com/cradrrat) (@cradrrat)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>official</sup> — Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) — One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so. <sub>by [Scott](https://x.com/CorlettScott) (@CorlettScott)</sub>

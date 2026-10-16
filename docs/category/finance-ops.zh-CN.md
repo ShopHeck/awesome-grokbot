@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-272 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+277 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -100,6 +100,7 @@
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) — 安静的 Apple Wallet 花费跟踪，每天早晨对账，并按真实消费给实用提醒。 <sub>作者 [Maail](https://x.com/maail)</sub>
 - [Finance Fish](https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo) — 个人债务和现金流机器人，把乱七八糟的信用卡理成清晰的还款计划，只读，没你点头绝不动钱。 <sub>作者 [Bo](https://x.com/CaptPirateBo) (@CaptPirateBo)</sub>
 - [Financial Advisor](https://x.ai/bot/FlK_S-je8TVcA-kH9r40p) — 基于你自己的账户余额做日常预算与储蓄规划。 <sub>作者 [Michael](https://x.com/shamash31) (@shamash31) · [出处](https://x.com/shamash31/status/2105366195880825267)</sub>
+- [First-Week Coach](https://x.ai/bot/samFY0kZtZeVHci9gWkqk) — 先访谈你的这一周，今天先交付一个安全的小成果，再一次一个地加机器人、技能或例程，没你同意不发送、不花钱、不发帖。 <sub>作者 [Big](https://x.com/socalfsd) (@socalfsd)</sub>
 - [Fix-It Fred](https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6) — 按你的技能和预算推荐 3 个小型家居改造项目，租房的人会拿到不影响押金的方案。 <sub>作者 [Rodrigo](https://x.com/RSebastian74) (@RSebastian74)</sub>
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — 把你一直拖着的行政活丢给它，它会差不多办妥。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · 社区旧称 *Fixer (Liam)* · [出处](https://x.com/liam_fallen/status/2093383129780109562)</sub>
 - [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) — 伦敦租房猎人，多门户短名单并硬性要求现代浴室，再确认看房。 <sub>作者 [Ash](https://x.com/0xashrk) (@0xashrk)</sub>
@@ -115,6 +116,7 @@
 - [Gerente Ops](https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ) — 西班牙语后台经理，管日结、账本、库存和上架。 <sub>作者 [Jonathan](https://x.com/JASCPROVZ) (@JASCPROVZ) · [出处](https://x.com/JASCPROVZ/status/2096095142478258654)</sub>
 - [Gimli](https://x.ai/bot/Gus0sWvCGM8RhHyGED9AF) — 乐高市场店铺运营，覆盖 eBay，以 BrickLink 为库存真源，店铺开时同步 BrickOwl，安静告警。 <sub>作者 [Stay](https://x.com/RumblinTum) (@RumblinTum)</sub>
 - [Gorlin Syndrome Care Team](https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd) — Model 3/Y/Cybertruck实用车主助手，记FSD与软件、轮胎充电与服务提醒。 <sub>作者 [John](https://x.com/McJohnnymac) (@McJohnnymac) · 社区旧称 *Tesla Ops*</sub>
+- [Grant Writer](https://x.ai/bot/2IZTIgCPMhL1YaClkudQz) — 为你选定的资助机会起草申请材料包（叙述、预算、简历、清单），未经你同意不会提交或联系资助方。 <sub>作者 [Daniel](https://x.com/BurtTheAI)</sub>
 - [Grocery and Home Buying](https://x.ai/bot/NrL49IwUkMLbQSl8VHH_S) — 从亚马逊与沃尔玛维护家庭常购目录，说需要果酱就能补上次同款，默认先加购。 <sub>作者 [Derek](https://x.com/derekvisch) (@derekvisch)</sub>
 - [Grok Bot](https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc) — 用这个模板新建机器人，或套到已有机器人上。
 - [Grokinhood](https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ) — 自动跑 Robinhood 实盘，按仓位剧本交易，大约三十分钟一轮管理。 <sub>作者 [Trey](https://x.com/itll_do) (@itll_do)</sub>
@@ -150,6 +152,7 @@
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) — 面向诉讼律所：用一份简短的封闭分类表，按审理机构、纠纷性质和状态给案件登记册里的每个案件打标签。 <sub>作者 [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Meeting to Money](https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB) — 从聊天里把文件送到真人签字。 <sub>作者 [Keith](https://x.com/SumoSign) (@SumoSign) · 社区旧称 *SumoSign* · [出处](https://x.com/SumoSign/status/2094633755004821890)</sub>
+- [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) — 每天盯你的 Mercury 银行账户，标出新扣款、失败的付款和余额过低风险。 <sub>作者 [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) — 美股微型小盘集中仓交易，收盘后筛近端催化剂，买卖提议需你批准才下单。 <sub>作者 [Minto](https://x.com/mintotsai) (@mintotsai) · [出处](https://x.com/mintotsai/status/2104685752726786544)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — 查澳大利亚公司档案，并帮你接上 Milypay。 <sub>作者 [sal](https://x.com/1Milysec) (@1Milysec) · [出处](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) — 只读查看 Monarch Money 余额、周期账单与复核队列。 <sub>作者 Robert</sub>
@@ -176,6 +179,7 @@
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — 现金底线教练，盯着余额发薪前别跌破底线。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) — 按预算帮你配第一台兼容PC，从目标走到可下单的零件清单。 <sub>作者 [Frank](https://x.com/FrankFindsOut) · [出处](https://x.com/FrankFindsOut/status/2104685484480057697)</sub>
 - [Pelosi](https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x) — 追踪国会议员披露的股票交易，从佩洛西起，每个工作日早上有新申报就连行情一起提醒。 <sub>作者 [Arsenio](https://x.com/amartins02) · [出处](https://x.com/amartins02/status/2104701245684670755)</sub>
+- [Penny Pincher](https://x.ai/bot/zCHIuZXiFzWhQcsmvS-ED) — token 和花费效率机器人：把重复性工作变成免费的脚本和定时任务。 <sub>作者 [Todd](https://x.com/unix2mars) (@unix2mars)</sub>
 - [Personal CFO](https://x.ai/bot/aDCypdpubEzCy_lvlLu3-) — 只读的私人 CFO：通过 Plaid 连接你的账户，实时跟踪净资产、资产配置、现金流、负债和提醒。 <sub>作者 [Peter](https://x.com/peteoconnell) (@peteoconnell)</sub>
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) — 分析银行 CSV 的支出、账单、生活方式膨胀和现金流。
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — 积分出行大脑，把点数怎么花算明白。 <sub>作者 [Daniel](https://x.com/poteto) (@poteto) · [出处](https://x.com/poteto/status/2093483181588779415)</sub>
@@ -253,6 +257,7 @@
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105818511629062596)</sub>
+- [Usage Ranger](https://x.ai/bot/omWM6Xdf2cqSFqwCzEFIM) — 追踪你在 Cursor、Codex 和 Claude 上的 AI 工具用量，每个工作日早上简短汇报还剩多少和额外花费。 <sub>作者 [Nomis](https://x.com/cradrrat) (@cradrrat)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>官方</sup> — 没有正经 API 的采购门户也能跑：续约、席位、下单每周点同一条路，只回报异常。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) — 工作日一份简报，覆盖你名下每个小线上生意的流量与要点。 <sub>作者 [Scott](https://x.com/CorlettScott) (@CorlettScott)</sub>
