@@ -7,14 +7,14 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4230,
+    "live": 4231,
     "retired": 17,
     "by_category": {
       "coding-shipping": 304,
       "inbox-calendar": 379,
       "research-briefings": 689,
       "customer-sales": 265,
-      "finance-ops": 271,
+      "finance-ops": 272,
       "content-publishing": 433,
       "personal-admin": 1666,
       "teams-handoffs": 223
@@ -143194,6 +143194,36 @@
         }
       ],
       "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "startup-grant-scout",
+      "name": "Startup Grant Scout",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Finds open non-dilutive startup grants, scores fit, and drafts applications for your approval.",
+      "summary_zh": "寻找可申请的非稀释性创业资助，按匹配度打分，并起草申请供你确认。",
+      "official_summary": "Finds open, non-dilutive grants your startup can actually win, scores each on fit, and drafts full applications up to the submit step for your approval.",
+      "import": "https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q",
+      "bot_id": "BAI6spVv_6v3ZVMFM3i6Q",
+      "category": "finance-ops",
+      "tags": [
+        "grants",
+        "funding",
+        "startup",
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q"
+        }
+      ],
+      "checked": "2026-10-16",
       "link_status": 200,
       "license": "CC0-1.0"
     }

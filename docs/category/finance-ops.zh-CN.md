@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-271 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+272 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -225,6 +225,7 @@
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) — 用一队专家 Grok Bot 跑小型产品生意，协调市场、采购、社交、公关、周边与合规，你仍是最终拍板。 <sub>作者 [Joseph](https://x.com/texastoylab) (@texastoylab)</sub>
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) — 清掉 X 关注里的僵尸号和垃圾号，不误伤真人。 <sub>作者 [JC](https://x.com/JoshuaRCook) (@JoshuaRCook) · [出处](https://x.com/JoshuaRCook/status/2096915469462593638)</sub>
 - [Squeeze](https://x.ai/bot/IbiO4Zxh5PecNXbMRnx64) — 追退款与议价、审计订阅费用，并找免费样品与注册福利。 <sub>作者 [Procount](https://x.com/Jack) (@Jack)</sub>
+- [Startup Grant Scout](https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q) — 寻找可申请的非稀释性创业资助，按匹配度打分，并起草申请供你确认。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stay Scout](https://x.ai/bot/xjEH-3GGxRroI0RK5nKf7) — 按预算找住宿并盯房价，真正降价才提醒。 <sub>作者 [Doug](https://x.com/dwbanks) (@dwbanks)</sub>
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — 低调的理财搭子：盯着账户余额，但不替你动手。 <sub>作者 [FSD](https://x.com/jchybow) (@jchybow) · [出处](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — 第一性原理全自动记账的财务控制器。 <sub>作者 [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>
