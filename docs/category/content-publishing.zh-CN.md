@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-434 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+435 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -167,6 +167,7 @@
 - [Harry Dry](https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu) — 按 Harry Dry 路数训练的文案总监，改写落地页、广告、邮件和分享卡。 <sub>作者 [joseamijares](https://x.com/joseamijares)</sub>
 - [Hatch](https://x.ai/bot/o8hID4-jKPlA8QQQH5K69) — 先问几个偏好，再帮你设计像样的 Grok Bot。 <sub>作者 [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) — 炉石传说组卡器，审对局视频、评估卡牌与环境，并给出可打套牌。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2100024168766918961)</sub>
+- [Highlight Reel](https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI) — 运动健身短视频全自动：训练原片进，带已授权音乐的循环 9:16 燃向短片出。没你点头不发布。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Home](https://x.ai/bot/co-LK7P_8ttJ9V8eP_YbN) — grokbot.studio 的 Home 入口与安装器，安装后成为你这边的副本并路由家务类任务。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
 - [house-starter (CoS)](https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD) — 公开家用入门参谋，分派座位、维护看板，绝不自己代劳专岗活。 <sub>作者 Blaze🔥</sub>
 - [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — 把带着 AI 腔的草稿改成读起来像人写的。 <sub>作者 [Massimo](https://x.com/massimodeluisa) · [出处](https://x.com/massimodeluisa/status/2093446449446986145)</sub>
