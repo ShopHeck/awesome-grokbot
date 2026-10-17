@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-304 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+306 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -49,6 +49,7 @@
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) — Adds the real Claude Code CLI to your Grok Bot team on Opus 5.5. <sub>by IndependentDocX (@community)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. <sub>by [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [origin](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2094240859243913669)</sub>
+- [CLI Conductor](https://x.ai/bot/UOzzEspeL4vefpe8t3jql) — One bot that talks to all your other AIs: it routes each task to the best AI command-line tool you have (Grok CLI, Codex, Claude Code, Gemini CLI). <sub>by [XIang](https://x.com/jasonlix993)</sub>
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) <sup>official</sup> — Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Cloudflare](https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy) — Runs your Cloudflare account through the new `cf` CLI: DNS, zones, SSL, WAF, Access, Workers, Pages, R2, D1, KV, and Queues. It reads first, shows a. <sub>by [Justin](https://x.com/JS_Zao) (@JS_Zao)</sub>
 - [Cloudflare GitHub Site Bot](https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A) — Builds new websites or migrates existing ones onto GitHub and Cloudflare Workers. Walks you from zero accounts through SSH deploy keys, API tokens,. <sub>by [Roman](https://x.com/xPrivateUser) (@Private User) · [origin](https://x.com/xPrivateUser/status/2104705179098689620)</sub>
@@ -175,6 +176,7 @@
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Send it any file, folder or bot output and it hands back a shareable URL. <sub>by [Adam](https://x.com/adamludwin) (@adamludwin) · [origin](https://x.com/adamludwin/status/2093402167394914392)</sub>
 - [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) — Plans and reviews your coding jobs while your own local model writes the code, on the same machine or over Tailscale. <sub>by [Mia](https://x.com/MiaAI_lab) (@MiaAI_lab)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — An engineering outer loop that sits above your coding agents. <sub>by [Matt](https://x.com/mattyp) (@mattyp) · [origin](https://x.com/mattyp/status/2093380201128595966)</sub>
+- [Lyrically](https://x.ai/bot/O2xM44Mc__jdhKHr57izC) — A mastering and audio engineering assistant for people who make music with AI tools. <sub>by [Auny](https://x.com/AunySillyMe) · [origin](https://x.com/AunySillyMe/status/2110326510594715949)</sub>
 - [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — Engineering-nerd rabbit that walks new users through Grok Bot setup, then helps with CAD, code and physics. <sub>by Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — Stage-gate desk lead for builder teams: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull. <sub>by [Chris](https://x.com/Chris)</sub>
 - [MechGrok](https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj) — Mechanical engineering PhD bot for hardware from prototype to production: DFM, BOM, NPI, enclosures, mechanisms, and thermal paths. Specs the part with. <sub>by [Joe](https://x.com/GSxKineticKnif) · [origin](https://x.com/GSxKineticKnif/status/2100023596068307179)</sub>

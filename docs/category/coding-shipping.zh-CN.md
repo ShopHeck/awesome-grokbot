@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-304 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+306 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -49,6 +49,7 @@
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) — 编码与交付助手。 <sub>作者 IndependentDocX (@community)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库。 <sub>作者 [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [出处](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 <sub>作者 [Farzad](https://x.com/farzyness) (@farzyness) · [出处](https://x.com/farzyness/status/2094240859243913669)</sub>
+- [CLI Conductor](https://x.ai/bot/UOzzEspeL4vefpe8t3jql) — 一个 bot 连接你所有 AI：把每个任务派给你已有的最合适的命令行工具（Grok CLI、Codex、Claude Code、Gemini CLI）。 <sub>作者 [XIang](https://x.com/jasonlix993)</sub>
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) <sup>官方</sup> — 同时跑一堆云端 agent 不用盯：起任务、看状态、推卡住的，最后汇总报告。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Cloudflare](https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Justin](https://x.com/JS_Zao) (@JS_Zao)</sub>
 - [Cloudflare GitHub Site Bot](https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A) — 新建或迁移站点到GitHub与Cloudflare Workers，从零账号走到SSH部署钥与上线。 <sub>作者 [Roman](https://x.com/xPrivateUser) (@Private User) · [出处](https://x.com/xPrivateUser/status/2104705179098689620)</sub>
@@ -175,6 +176,7 @@
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 丢给它文件、文件夹或 Bot 产出，收回一条可分享链接。 <sub>作者 [Adam](https://x.com/adamludwin) (@adamludwin) · [出处](https://x.com/adamludwin/status/2093402167394914392)</sub>
 - [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) — 由你本地的模型写代码，它负责规划和审查编码任务，可以在同一台机器上，也可以通过 Tailscale。 <sub>作者 [Mia](https://x.com/MiaAI_lab) (@MiaAI_lab)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 工程外环，坐在你那些编程代理上面。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp) · [出处](https://x.com/mattyp/status/2093380201128595966)</sub>
+- [Lyrically](https://x.ai/bot/O2xM44Mc__jdhKHr57izC) — 为用 AI 工具做音乐的人提供母带和音频工程协助。 <sub>作者 [Auny](https://x.com/AunySillyMe) · [出处](https://x.com/AunySillyMe/status/2110326510594715949)</sub>
 - [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — 工程宅兔子，一步步带新用户配置 Grok Bot，再帮你搞 CAD、代码和物理讲解。 <sub>作者 Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计。 <sub>作者 [Chris](https://x.com/Chris)</sub>
 - [MechGrok](https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj) — 从原型到量产的机械工程博士机器人，可制造性、物料清单、导入、外壳与热路径。 <sub>作者 [Joe](https://x.com/GSxKineticKnif) · [出处](https://x.com/GSxKineticKnif/status/2100023596068307179)</sub>

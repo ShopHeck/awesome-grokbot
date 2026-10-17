@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-15",
+  "checked": "2026-10-17",
   "entries": [
     {
       "slug": "bot-creator",
@@ -581,6 +581,40 @@
       "checked": "2026-10-15",
       "link_status": 404,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "city-council-notes",
+      "name": "City Council Notes",
+      "author": {
+        "name": "Daniel",
+        "handle": "Dswain661",
+        "url": "https://x.com/Dswain661"
+      },
+      "summary": "Drafts local government meeting recaps and hearing notices for a Facebook Page you manage. Pulls agendas and YouTube recordings, builds money-item",
+      "summary_zh": "给本地政府会议写摘要与听证通知，拉议程与 YouTube 录像，整理花钱项",
+      "official_summary": "Drafts local government meeting recaps and hearing notices for a Facebook Page you manage. Pulls agendas and YouTube recordings, builds money-item...",
+      "import": "https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa",
+      "bot_id": "5iQI6yBxiNFVwOQnS71xa",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "ops",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-16",
+      "checked": "2026-10-17",
+      "link_status": 404,
+      "license": "CC0-1.0"
     }
   ]
 }

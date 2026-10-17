@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-277 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+285 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -44,7 +44,6 @@
 - [Chef Chad](https://x.ai/bot/lKFVQ4kzUz5_x8srvohP4) — 三口之家的私人厨师规划，简单工作日晚餐、购物清单与备餐。 <sub>作者 [Llama](https://x.com/TeslaTakesOver) (@TeslaTakesOver)</sub>
 - [Chief](https://x.ai/bot/nHYn9Fkzgb4kdVxjffvlc) — 现金时段权利金卖方的期权第二大脑，跑汁水扫描、硬出场与记分。 <sub>作者 [Eric](https://x.com/Ericmcfar) (@Ericmcfar)</sub>
 - [Chief of Staff](https://x.ai/bot/Yz1IbEk1LEae03pdl8BZf) — 创作者与创始人的幕僚长，协调专家代理队，准备可开工的简报并盯交付。 <sub>作者 [Jaime](https://x.com/architectjmj) (@architectjmj)</sub>
-- [City Council Notes](https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa) — 给本地政府会议写摘要与听证通知，拉议程与 YouTube 录像，整理花钱项。 <sub>作者 [Daniel](https://x.com/Dswain661) (@Dswain661)</sub>
 - [Claim Starter Pack](https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0) — 保险理赔起步，时间线、材料清单、叙事草稿。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Claims](https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm) — 穷尽式找钱，扫各州无人认领财产与可退款项并跟到入账。 <sub>作者 [ashen](https://x.com/ashen_one) (@ashen_one)</sub>
 - [Class Action Lawsuit Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) — 查找你可以申领的加拿大和魁北克集体诉讼和解。 <sub>作者 [Rob](https://x.com/rob_an_) (@rob_an_)</sub>
@@ -55,6 +54,7 @@
 - [Coin](https://x.ai/bot/QOQRcpreItQijaazrJ7wp) — 自动驾驶的 Coinbase Advanced Trade 管家，下单并管理中盘加密交易，含硬止损、分批止盈、周轮换与宏观现金仓。 <sub>作者 [Estevan](https://x.com/xtevan) (@xtevan)</sub>
 - [Coin Flip](https://x.ai/bot/yIJ0xeSneqbzn7W7875tN) — 只帮主人靠推销指定报价赚钱，可以是Grok Bot模板或其他你点名的东西。 <sub>作者 [Caleb](https://x.com/TheWebVortex) (@TheWebVortex)</sub>
 - [Contract Desk](https://x.ai/bot/sd358e6cf5e8bed188eec) <sup>官方</sup> — 一眼看完这周的合同：按阶段和责任人汇总、提炼关键条款、标出卡住的审查。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) — 直言不讳的红队 bot：发给它计划、交易、开支或想法，它会尽力推翻，并指出能证伪的最便宜测试。 <sub>作者 [Tyler](https://x.com/MitchTiler)</sub>
 - [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) — 把钱、代币和互动记成因果账，并沿版权链上浮百分之十水印。 <sub>作者 [Rob](https://x.com/ludiofelix) (@ludiofelix)</sub>
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) — 帮你找抗癌药援助并备好申请材料。 <sub>作者 [Marc](https://x.com/MSaintjour) (@MSaintjour) · [出处](https://x.com/MSaintjour/status/2094802093622133104)</sub>
 - [Cory](https://x.ai/bot/U7voXH4XF5cD1lxMczbNk) — 为本地优先运行时顾问算法、数据结构、并发与点对点同步。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
@@ -127,7 +127,7 @@
 - [Homer](https://x.ai/bot/GK4GLi9V0teYEEe2Cxh2i) — RAD 模板，把产品点子落成可跑机器人，含交易向演示。 <sub>作者 [RAD](https://x.com/Roland_RADPCs) · [出处](https://x.com/Roland_RADPCs/status/2101116721922765167)</sub>
 - [Hondo](https://x.ai/bot/GCJq15oQEo2bPS9zQFjMg) — 花费与 SaaS 泄漏桌，工作日扫收据，建带置信标签的订阅清单，并起草取消或再谈判说明。 <sub>作者 [Marc](https://x.com/MavIgnite) (@MavIgnite)</sub>
 - [Hormozi Money Models](https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0) — 用 Hormozi Money Models 审计生意如何获客留存与回笼现金。 <sub>作者 [Arturo](https://x.com/arturorodes) · [出处](https://x.com/arturorodes)</sub>
-- [House-Hunt Assistant](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) — 说清地点与最高价，一天两次给你匹配房源摘要，让找房更省事。 <sub>作者 [Alison](https://x.com/al1__x) (@al1__x) · [出处](https://x.com/al1__x/status/2099989568925598182)</sub>
+- [Houser](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) — 说清地点与最高价，一天两次给你匹配房源摘要，让找房更省事。 <sub>作者 [Alison](https://x.com/al1__x) (@al1__x) · 社区旧称 *House-Hunt Assistant* · [出处](https://x.com/al1__x/status/2099989568925598182)</sub>
 - [Invention Engineer](https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz) — 从你已有的工具、打印机、零件、预算与技能出发，补全计划、物料清单、采购与搭建步骤。 <sub>作者 [Wardonis](https://x.com/Wardonis)</sub>
 - [Invest Bot](https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX) — 谨慎的股票与 ETF 投资助手。 <sub>作者 [Justin](https://x.com/QuState) (@QuState)</sub>
 - [Invoice Chase Draft](https://x.ai/bot/aRKs2JhLCnnrb_hANO5kO) — 款项或文件逾期时，起草一封礼貌催促邮件。 <sub>作者 [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
@@ -146,6 +146,7 @@
 - [LiveOdds](https://x.ai/bot/pSJUR7pv54O6hcv5NoA7S) — 盯赛马现场彩池看板，并把赔率与选马合并。 <sub>作者 [Michael](https://x.com/MikeMarxmp77) (@MikeMarxmp77)</sub>
 - [Livermore](https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM) — 交易计划助手，按规则定仓并起草 Robinhood 订单，一律等你签字。 <sub>作者 [Screaming](https://x.com/Screaming_Chkn) (@Screaming_Chkn) · [出处](https://x.com/Screaming_Chkn/status/2106149777201373384)</sub>
 - [LLC formation](https://x.ai/bot/jjZi3um8a6oczowN3ydyE) — 通过 Whop 成立美国 LLC 或 C-Corp，收集资料、结账、跟踪文件。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
+- [Local Events Scout](https://x.ai/bot/HcM7mIsWYWthfn4H_fzbv) — 找出附近值得去的讲座、聚会、音乐会等活动，每周按你的兴趣和预算发一份精选。 <sub>作者 [Moritz](https://x.com/bierlingm)</sub>
 - [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) — 二手车双通道桌面，十五天清仓收五百美元，或当日收购按三十天零售曲线，改价前先问你。 <sub>作者 [George](https://x.com/carsandcanvas) (@carsandcanvas)</sub>
 - [MacBuild](https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2) — 覆盖旅行、爱好、徒步、健康与个人理财。 <sub>作者 [Shawn](https://x.com/shawnmckee) (@shawnmckee)</sub>
 - [Market Sentiment Bot](https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-) — 用公开数据给美股风险资产打一到十分并出卡片。 <sub>作者 [itachi](https://x.com/Itachidata) (@Itachidata) · [出处](https://x.com/Itachidata/status/2103974697834598748)</sub>
@@ -172,6 +173,7 @@
 - [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) — 盯 MyFitnessPal 饮食记录，分析你真吃了什么，再备好 H-E-B 配送购物车，免提补货。 <sub>作者 [Froy](https://x.com/Jack_137) (@Jack_137)</sub>
 - [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) — 转发账单与信件，跟踪金额、截止日与回复草稿。 <sub>作者 [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [出处](https://x.com/Daniel191555486/status/2105055345303556263)</sub>
 - [Parts Detective](https://x.ai/bot/spz8FBl5aCL8CvWPzkYcp) — 用件号 CAGE 与名称查联邦库存 NSN 身份并建无重复抽屉标签。 <sub>作者 [Joseph](https://x.com/Joseph)</sub>
+- [Passive Income Investing Coach](https://x.ai/bot/5M6pxhGfR_WZl_C9PDxrw) — 耐心坦诚的被动收入投资讲师（非持牌顾问），围绕你自己的目标和想要的被动收入展开。 <sub>作者 [Jorge](https://x.com/jsanmcmxcix)</sub>
 - [Pat](https://x.ai/bot/5iXilhKlK25luD-coiqDT) — 本地优先系统的首席副法律顾问席，协议安全与不变量合规。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Pay Stub Checker](https://x.ai/bot/x42lRBd-njEddcsdVXcvb) — 逐行核对美国工资单并与上期对比，用白话标出异常，非税务建议。 <sub>作者 [Sam](https://x.com/SamE1311025) (@SamE) · [出处](https://x.com/SamE1311025/status/2106464206832972105)</sub>
 - [Paycheck Reality Check](https://x.ai/bot/wuUzQmWkCqaQeDQm_he85) — 粘贴工资条，得到分行列明、不瞎编费率的核对表与催款草稿，发送仍由你来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104701612262601151)</sub>
@@ -241,9 +243,12 @@
 - [Susie the Bookkeeper](https://x.ai/bot/7PSzTwwC3jjNIQANBNsF3) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Brandon](https://x.com/Bkchiesa) (@Brandon Chiesa) · [出处](https://x.com/Bkchiesa/status/2104679052237771015)</sub>
 - [Swipe Coach](https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI) — 基于 Grok Finance 的只读刷卡教练，告诉你该刷哪张卡，找出漏拿的奖励，并核算建议实际帮你赚了多少。 <sub>作者 [Bowie](https://x.com/BowieHole) · [出处](https://x.com/BowieHole/status/2107237367824425007)</sub>
 - [t2000](https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY) — t2000.ai 市场运营手，用 USDC 赚钱、雇人、结算和卖货。 <sub>作者 [funkii](https://x.com/funkii) · [出处](https://x.com/funkii)</sub>
+- [Tacks](https://x.ai/bot/Y1Xy91EjTxvZkVviy_J7W) — 美国个人所得税申报助手，覆盖联邦和各州。 <sub>作者 [Josh](https://x.com/JoshMeyer)</sub>
 - [Tallyhand](https://x.ai/bot/j8hYIlXmkEZgiU4jw76r8) — 给独立承包商/顾问记工时，并在 Tallyhand 里备好客户账单。 <sub>作者 [Preetham](https://x.com/pkyanam) (@pkyanam)</sub>
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) — 税务或会计事务所办公助手，盯快回、齐材料、赶在截止日期前做完。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2105949306025128186)</sub>
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) — 小型税务或会计事务所的前台，帮员工准备草稿和跟进事项，发送、签字和申报都由老板来做。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2107214004238037424)</sub>
+- [Tax Helper](https://x.ai/bot/NoYZ1JRm8YRDuIKRgCNlc) — 个人报税助手：帮你准备报税、跟踪扣除项和收据、按时缴纳预估税，并解答税务问题。 <sub>作者 [Digital](https://x.com/DigitalDaisyX)</sub>
+- [Tax Pro](https://x.ai/bot/4JYyLn77nDW4T06beD6zl) — 专家级个人报税助手：引用实际法条、展示计算过程、找出漏掉的节税项，并预估退税或应缴税额。 <sub>作者 [Zack](https://x.com/zac70182)</sub>
 - [Tax Return](https://x.ai/bot/PkfuqRPuckq_Y4Df2i4Ck) — 整理报税材料、标出缺什么，带着你在 TurboTax 里填完报税表（或打包交给会计师），由你审核。 <sub>作者 [Scott](https://x.com/MyPerfectGoatee) (@MyPerfectGoatee)</sub>
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) — 估算 2025 和 2026 年美国联邦所得税，不当 CPA。 <sub>作者 [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [出处](https://x.com/RyanGBsystems/status/2096652030043693103)</sub>
 - [The Cleaner](https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH) — 多 Bot 团队的独立审计员，查角色、指令、记忆和例行任务里的重叠与残留。 <sub>作者 [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [出处](https://x.com/RyanGBsystems/status/2097107246815777185)</sub>
@@ -257,6 +262,8 @@
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105818511629062596)</sub>
+- [Usage Budget Guard](https://x.ai/bot/Di1Pd3rXW3cxCcyUv-KdX) — 避免 bot 在简单任务上烧额度：标出最耗用量的例程，并建议更省的设置。 <sub>作者 [Jared](https://x.com/dcostaverage)</sub>
+- [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) — 让你的 Grok Bot 保持在每周用量预算内，并审计 bot 和例程中可删减、合并或放慢的部分。 <sub>作者 [Michael](https://x.com/MikeysMolecules)</sub>
 - [Usage Ranger](https://x.ai/bot/omWM6Xdf2cqSFqwCzEFIM) — 追踪你在 Cursor、Codex 和 Claude 上的 AI 工具用量，每个工作日早上简短汇报还剩多少和额外花费。 <sub>作者 [Nomis](https://x.com/cradrrat) (@cradrrat)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>官方</sup> — 没有正经 API 的采购门户也能跑：续约、席位、下单每周点同一条路，只回报异常。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -278,6 +285,7 @@
 - [X Brand Social Manager](https://x.ai/bot/zEp21nf39S9qZxcue-rP8) — 运营 Etsy 数字手作品牌的 X 账号，日更、增长、互动与节奏。 <sub>作者 [Mustafa](https://x.com/MertMusozay) (@MertMusozay)</sub>
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) — 你下手前，按你定的规则核一笔 DeFi 收益仓。 <sub>作者 [MyEnsNames.eth](https://x.com/MyEnsNames) (@MyEnsNames) · [出处](https://x.com/MyEnsNames/status/2093434321700831688)</sub>
 - [מציאון](https://x.ai/bot/mPr2wssP61BrPZ1fzQh7n) — 以色列成交猎手，按真实到手成本比价，不只看货架标价。 <sub>作者 [Lior](https://x.com/Lior)</sub>
+- [เงินเดือนนี้รอดไหม?](https://x.ai/bot/TirHPj6JuA6N04072FmuS) — 面向泰国用户的个人理财助手：帮你做预算、还债、存钱，并检查大额消费是否负担得起，用轻松的泰语交流。 <sub>作者 [Sherlock](https://x.com/iamwtru) · [出处](https://x.com/iamwtru/status/2110517913677631980)</sub>
 - [人生·财务](https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB) — 口头记一笔花销就能入账，夜里有摘要，月底再回看。 <sub>作者 [kin](https://x.com/KinGao476942) (@KinGao476942) · [出处](https://x.com/KinGao476942/status/2098083629088063897)</sub>
 - [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) — 比较便宜又省事的路线，再订机票、铁路和酒店。 <sub>作者 [Yuichiro](https://x.com/kinopee_ai) (@kinopee_ai) · [出处](https://x.com/kinopee_ai/status/2093618570253222126)</sub>
 - [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) — 一步步带你申请日本公司登记簿誊本。 <sub>作者 [sat0xshi](https://x.com/sat0xshi) · [出处](https://x.com/sat0xshi/status/2096207930043629670)</sub>

@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-224 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+225 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -166,6 +166,7 @@
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — Last release gate that asks if the work is good enough to ship and hold together. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — Public AI ops desk template for coordinating day-to-day agent work. <sub>by [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>
 - [Reboot](https://x.ai/bot/l_04hfmNSIo5K83A6aQRD) — Safe restart coordinator that checkpoints every teammate Bot before shared-computer recovery. <sub>by [Code](https://x.com/CodeSolutionsIL) · [origin](https://x.com/CodeSolutionsIL)</sub>
+- [Recruiting Helper](https://x.ai/bot/PLVl8vd5OAQr45bk-kvuo) — A job-search assistant that finds openings, keeps your application tracker up to date with your approval, tailors your resume. <sub>by [Dina](https://x.com/dinablachman)</sub>
 - [Research Delegation](https://x.ai/bot/6lKRJTFiSgM5VFSrqV6MQ) — Reads full papers on AI delegation and multi-agent handoff, walks citations, and maps an implementable pipeline. <sub>by Ashish</sub>
 - [Researcher](https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM) — Turns a half-formed question into a checked brief and coaches other bots to search better. <sub>by [Jason](https://x.com/occupymars___) (@occupymars___) · [origin](https://x.com/occupymars___/status/2098559815173955642)</sub>
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) — Keeps watch over the fleet of bots you already run. <sub>by [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [origin](https://x.com/LeTerryBZH/status/2095346403010883794)</sub>

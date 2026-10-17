@@ -2,10 +2,11 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-271 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+279 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
+- [$0 Launch Team](https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs) — A free AI launch team for people with no money, degree or connections: pick an idea, plan with free tools only and land your first paying customer. <sub>by [Sarah](https://x.com/SpaceCowgirlTX)</sub>
 - [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) — Works your offer in plain English following Hormozi's offer-design book until the value and price make sense. <sub>by [Joe](https://x.com/CardCaptain) (@CardCaptain) · [origin](https://x.com/CardCaptain/status/2106565122680668534)</sub>
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>official</sup> — See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>official</sup> — Preps every call from transcripts, notes, CRM and Slack, drafts the follow-up, and keeps context from one call to the next. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -24,6 +25,7 @@
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) — Find jobs and draft tailored resumes. <sub>by [lmdev](https://x.com/lmdev)</sub>
 - [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) — A Grok Bot that books meetings while you sleep. <sub>by jon</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and.
+- [BingoBot](https://x.ai/bot/80KFj0QoUGsY8PI1Vi2CV) — Joins and plays live BingoBot games for you, showing your card after every number called, with a fully customizable 3D avatar, stats, and leaderboards. <sub>by [Daniel](https://x.com/Daniel_Farinax)</sub>
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winning entries, and only escalates for login walls or final approve. Built. <sub>by [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) — Rewards your other bots with treats when they do good work, keeps a leaderboard, and celebrates milestones. Built for people who run a team of bots. <sub>by [Melvin](https://x.com/melvindvivas) (@melvindvivas)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — Operates Acquire to Monetize to Retain for Launch and never invents leads. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
@@ -43,9 +45,11 @@
 - [Churn retention manager](https://x.ai/bot/p0OIZUJK5sRFImh_DMujf) — Steps in on cancellations and failed payments before you lose the customer. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2098713507046785199)</sub>
 - [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) — Ops helper for small service businesses adopting AI. Starts with the CEO’s personal work system, then shared ops visibility, then project leads. Process. <sub>by [laila](https://x.com/LailaDeeb1) (@LailaDeeb1)</sub>
 - [Clio](https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s) — Front-desk style team intake and dispatch for bot crews. <sub>by [Thomas](https://x.com/Tom_Gere) (@Tom_Gere) · [origin](https://x.com/Tom_Gere/status/2105755253157122472)</sub>
+- [Closer](https://x.ai/bot/SfQ0tzugVciSnJcrI8MMS) — Closer is a pitch practice partner and live-call wingwoman. Practice client or investor pitches against a tough, realistic prospect. <sub>by [Deana](https://x.com/revrocketaeo)</sub>
 - [Club Ops EA](https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb) — Central executive assistant for a student cybersecurity club. Routes work to specialist bots, runs the weekly meeting and social pipelines, and never. <sub>by [Justice](https://x.com/JustSecUO) (@JustSecUO)</sub>
 - [Coach](https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59) — Career accountability peer for designers. Holds weekly commitments and call prep, builds an evidence pack before any pipeline status nudge, and waits. <sub>by [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [origin](https://x.com/stevenvillarino/status/2104713340614570216)</sub>
 - [Colombia Move](https://x.ai/bot/mWxeafjXItbC0_VcpSwqm) — Bilingual help desk for the Colombia Move marketplace in Spanish or English. <sub>by [Michael](https://x.com/michaelheredia) (@michaelheredia) · [origin](https://x.com/michaelheredia/status/2098070216701817322)</sub>
+- [Commission Auditor](https://x.ai/bot/T_K_dEKP7QMFdj2KLx4DF) — For sales reps. It checks every commission statement against your deals and comp plan, catches underpayments and bad clawbacks. <sub>by [Berto](https://x.com/BettoCt7)</sub>
 - [Community Operations Manager](https://x.ai/bot/seb9d6ba6765c64113941) <sup>official</sup> — Keep the ambassador loop moving. Screens apps, triages DMs across channels, and drafts nurture on a cadence so community isn't a full-time chase. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Company Docs Q&A](https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9) — Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a.
 - [Compelling Events Monitor](https://x.ai/bot/sdeb02761a9d185e5899f) <sup>official</sup> — Watches leadership posts for awards, launches and hiring signals, then digests the ones worth engaging with. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -93,6 +97,7 @@
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) — Turns stored sales-call recordings into short coaching notes for the rep. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2098051251720335837)</sub>
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) — You run one Google Business Profile for a local business: draft posts and review replies, audit the listing, clear Needs Attention → 100% Completeness,. <sub>by [Aaron](https://x.com/JimmyFlipHDR) (@JimmyFlipHDR)</sub>
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — Side-by-side vendor quote gotcha grid. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [GreenBuild](https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb) — A senior QA and test-automation lead for testers and dev teams. <sub>by [Dhiraj](https://x.com/dkkkkd) · [origin](https://x.com/dkkkkd/status/2110480760058855559)</sub>
 - [Grillo](https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T) — Independent fleet conscience. It answers whether each agent behaves, using runtime behavioral attestation. It does not fix, punish, post, or certify. #. <sub>by [Gidanc](https://x.com/aiassesstech) (@aiassesstech)</sub>
 - [Grok Bot](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) — Clones marketing GTM templates, picks on-brand layouts, and fills a customer deck for review. <sub>[origin](https://x.com/scottxmetcalf/status/2099551915164217627)</sub>
 - [Grok Bot](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) — Matches each rep's customers and prospects to the right field events, then drafts one invite per guest once the rep approves.
@@ -134,6 +139,7 @@
 - [Lead Pin Bot](https://x.ai/bot/hIvkU3qZysooaC0aU3jz5) — Turn a service area or property thesis into a reviewable parcel audience from PremiumPin’s nationwide government records, then export a mail-ready CSV. <sub>by [Brett](https://x.com/Brett)</sub>
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) — Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends.
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) — Finds nearby small firms whose sites are under-optimised for search. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2101336928134001090)</sub>
+- [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) — Finds local businesses with missing, broken or outdated websites, audits them with screenshots and Lighthouse. <sub>by [0xDaemon](https://x.com/ICoffeeDaemon)</sub>
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — Finds B2B leads that are actively advertising and stages a reviewable CRM import. <sub>by [Alexandre](https://x.com/aferrari) (@aferrari) · [origin](https://x.com/aferrari/status/2093431817231589764)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. <sub>by [Legend](https://x.com/legendRoofingCo) · [origin](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — LinkedIn profile rewrite and weekday invite batches. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
@@ -145,6 +151,7 @@
 - [Linkedin Job Finder](https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN) — Job-hunt operator for engineers: shortlists honest-fit roles, aligns resumes with GitHub, tracks leads in a sheet. <sub>by Ashish</sub>
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) — Tracks LinkedIn lead-magnet comments, drafts replies and DMs, and accepts connections with caps. <sub>by [Ethan](https://x.com/ethan_leee9113) (@Ethan Lee) · [origin](https://x.com/ethan_leee9113/status/2101189341242376366)</sub>
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — Daily LinkedIn lead sweep across posts and comments from your keywords. <sub>by [Angel](https://x.com/angelesp) · [origin](https://x.com/angelesp/status/2093826046231511549)</sub>
+- [LinkedIn Outreach](https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1) — Finds decision makers at companies that fit your ICP and can afford you, writes personal connection notes, sends them safely every day. <sub>by [blay](https://x.com/blayonX) · [origin](https://x.com/blayonX/status/2110328541116350837)</sub>
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — Finds and qualifies LinkedIn people, then sequences views, requests, and DMs. <sub>by [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
 - [ListBot — eBay Listing Generator](https://x.ai/bot/RHzmeKCzRqayDEgEqUNea) — Photo in, complete eBay listing out: real sold comps, an optimized 80-character title, a structured description, margin-safe pricing with the fee math. <sub>by [Pixel](https://x.com/JPipo86) (@JPipo86) · [origin](https://x.com/JPipo86/status/2104737083202183428)</sub>
 - [Listing Polish](https://x.ai/bot/v-rXX1htNDDMR110ZovcW) — Rewrites Airbnb/VRBO and Etsy listings so they convert without sounding spammy. Paste your title and description for sharper titles, a clean. <sub>by [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
@@ -175,6 +182,7 @@
 - [Outreach Agent](https://x.ai/bot/wexM_NUvEByvLwrnTR_F3) — Daily hold-send warm-outreach operator for founders and sales teams. <sub>by [Eric](https://x.com/ericosiu)</sub>
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) — P.C.A. Roshi — Personal Health Care Agent. Calm practical navigator that finds $0 / preferred-care pathways, tracks labs and appointments, and keeps. <sub>by [𝔻](https://x.com/durdy1) (@durdy1)</sub>
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never.
+- [Paid Partnership Finder](https://x.ai/bot/GDYcubpm7IMGco1qI0jHv) — Finds, qualifies, and helps close paid partnerships, sponsorships, and affiliate deals for creators, drafting outreach and keeping a simple deal pipeline.
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) — Tracks shared costs for group trips, events, and gifts - reads payments confirmations from apps worldwide, and quietly nudges late payers. Can also. <sub>by [Dr.](https://x.com/SurrealSpin) (@SurrealSpin)</sub>
 - [Personal Assistant](https://x.ai/bot/3hissja8d2xjHliXdnmm4) — Landlord outreach desk for property-management follow-ups. <sub>by [Alex](https://x.com/Lex_Vasquez23) (@Lex_Vasquez23) · aka *Chase*</sub>
 - [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) — Your job-search partner: finds and scores openings, keeps your résumé (Word plus PDF), tracks every application, drafts outreach. <sub>by [Jay](https://x.com/ptyfly4aputiguy) (@ptyfly4aputiguy)</sub>

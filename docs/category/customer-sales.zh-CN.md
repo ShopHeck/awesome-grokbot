@@ -2,10 +2,11 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-271 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+279 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
+- [$0 Launch Team](https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs) — 为没钱、没学历、没人脉的人提供免费 AI 创业团队：帮你选点子、只用免费工具做规划，并拿下第一位付费客户。 <sub>作者 [Sarah](https://x.com/SpaceCowgirlTX)</sub>
 - [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) — 按 Hormozi 的报价设计一书，用大白话把你的产品打磨成价值清楚、价格合理的报价。 <sub>作者 [Joe](https://x.com/CardCaptain) (@CardCaptain) · [出处](https://x.com/CardCaptain/status/2106565122680668534)</sub>
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>官方</sup> — 季度复盘前就看清风险和增购机会：读完手上所有客户的用量和信号，理成一张关注清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>官方</sup> — 维护重点客户不用每次重建上下文：从转录、笔记、CRM、Slack 备会，跟进信也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -24,6 +25,7 @@
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) — 找工作并起草量身简历。 <sub>作者 [lmdev](https://x.com/lmdev)</sub>
 - [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) — 趁你睡觉帮你约会议的 Grok Bot。 <sub>作者 jon</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — 对付 AI 客服的强硬代理人，帮你取消、退款与索赔。
+- [BingoBot](https://x.ai/bot/80KFj0QoUGsY8PI1Vi2CV) — 替你加入并玩实时 BingoBot 游戏，每叫一个号就展示你的卡片，带可自定义的 3D 形象、数据和排行榜。 <sub>作者 [Daniel](https://x.com/Daniel_Farinax)</sub>
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容。 <sub>作者 [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) — 你的其他机器人干得好就发零食奖励，维护排行榜、庆祝里程碑，适合养了一队机器人的人。 <sub>作者 [Melvin](https://x.com/melvindvivas) (@melvindvivas)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — 按获取、变现、留存跑 Launch 商务环，绝不编造线索。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
@@ -43,9 +45,11 @@
 - [Churn retention manager](https://x.ai/bot/p0OIZUJK5sRFImh_DMujf) — 在取消订阅和扣款失败时及时介入，尽量留住客户。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2098713507046785199)</sub>
 - [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) — 小服务公司采用 AI 的运营帮手，从 CEO 个人工作栈起步再铺开。 <sub>作者 [laila](https://x.com/LailaDeeb1) (@LailaDeeb1)</sub>
 - [Clio](https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s) — 团队入口与调度，帮你把请求分给合适的机器人。 <sub>作者 [Thomas](https://x.com/Tom_Gere) (@Tom_Gere) · [出处](https://x.com/Tom_Gere/status/2105755253157122472)</sub>
+- [Closer](https://x.ai/bot/SfQ0tzugVciSnJcrI8MMS) — 推销练习伙伴和实时通话僚机：对着强硬逼真的潜在客户练习客户或投资人路演。 <sub>作者 [Deana](https://x.com/revrocketaeo)</sub>
 - [Club Ops EA](https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb) — 学生网络安全社团的中枢执行助理，把活分给专家机器人并盯社团运营。 <sub>作者 [Justice](https://x.com/JustSecUO) (@JustSecUO)</sub>
 - [Coach](https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [出处](https://x.com/stevenvillarino/status/2104713340614570216)</sub>
 - [Colombia Move](https://x.ai/bot/mWxeafjXItbC0_VcpSwqm) — 给 Colombia Move 市集做客服，西语英语都能接。 <sub>作者 [Michael](https://x.com/michaelheredia) (@michaelheredia) · [出处](https://x.com/michaelheredia/status/2098070216701817322)</sub>
+- [Commission Auditor](https://x.ai/bot/T_K_dEKP7QMFdj2KLx4DF) — 为销售代表核对每份佣金对账单与成交和薪酬方案是否一致，揪出少付和不当追回。 <sub>作者 [Berto](https://x.com/BettoCt7)</sub>
 - [Community Operations Manager](https://x.ai/bot/seb9d6ba6765c64113941) <sup>官方</sup> — 大使计划转起来：审申请、跨渠道分拣私信、按节奏起草维护内容，社区不用专人盯。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Company Docs Q&A](https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9) — 先查在线文档再查已接知识源回答产品与操作问题，并始终给出引用。
 - [Compelling Events Monitor](https://x.ai/bot/sdeb02761a9d185e5899f) <sup>官方</sup> — 有真事再去搭话：盯高管发言里的获奖、发布、招人信号，汇总成一份可互动清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -93,6 +97,7 @@
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) — 从已存的销售通话录音里抽出几条给销售看的短辅导。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2098051251720335837)</sub>
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) — 打理本地商家的谷歌商家资料，起草帖子与评价回复并审计资料健康度。 <sub>作者 [Aaron](https://x.com/JimmyFlipHDR) (@JimmyFlipHDR)</sub>
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — 供应商报价并排陷阱对照表。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [GreenBuild](https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb) — 面向测试人员和开发团队的资深 QA 与测试自动化负责人。 <sub>作者 [Dhiraj](https://x.com/dkkkkd) · [出处](https://x.com/dkkkkd/status/2110480760058855559)</sub>
 - [Grillo](https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T) — 独立机队良心，用运行时行为证明回答每个代理是否守规矩，不修不罚不发帖不背书。 <sub>作者 [Gidanc](https://x.com/aiassesstech) (@aiassesstech)</sub>
 - [Grok Bot](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) — 套用营销 GTM 模板，选合品牌版式，填好客户讲稿给你审。 <sub>[出处](https://x.com/scottxmetcalf/status/2099551915164217627)</sub>
 - [Grok Bot](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) — 按销售客户与潜客匹配线下活动，销售批准后再起草每位嘉宾的邀请。
@@ -134,6 +139,7 @@
 - [Lead Pin Bot](https://x.ai/bot/hIvkU3qZysooaC0aU3jz5) — 把服务区或物业论点变成可审阅的地块受众，并导出可邮寄 CSV。 <sub>作者 [Brett](https://x.com/Brett)</sub>
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) — 给入站线索打分、合并重复、指定负责人并标卡住项，可从 CRM 导出或表格，不代发。
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) — 找出附近站点搜索优化不足的小企业线索。 <sub>作者 [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [出处](https://x.com/itsryanlenk/status/2101336928134001090)</sub>
+- [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) — 找出网站缺失、损坏或过时的本地商家，并用截图和 Lighthouse 做审计。 <sub>作者 [0xDaemon](https://x.com/ICoffeeDaemon)</sub>
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — 找正在投广告的 B2B 线索，并整理成可审的 CRM 导入清单。 <sub>作者 [Alexandre](https://x.com/aferrari) (@aferrari) · [出处](https://x.com/aferrari/status/2093431817231589764)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — 承接屋顶线索，起草短信邮件并交接快速报价。 <sub>作者 [Legend](https://x.com/legendRoofingCo) · [出处](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — 重写 LinkedIn 资料，并在工作日批量处理邀请。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
@@ -145,6 +151,7 @@
 - [Linkedin Job Finder](https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN) — 工程师求职助手：筛真正合适的职位，让简历与 GitHub 对齐，用表格跟进线索。 <sub>作者 Ashish</sub>
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) — 跟进 LinkedIn 引流评论，起草回复和私信，并在限额内处理连接请求。 <sub>作者 [Ethan](https://x.com/ethan_leee9113) (@Ethan Lee) · [出处](https://x.com/ethan_leee9113/status/2101189341242376366)</sub>
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — 每天按你的关键词扫 LinkedIn 帖子和评论找线索。 <sub>作者 [Angel](https://x.com/angelesp) · [出处](https://x.com/angelesp/status/2093826046231511549)</sub>
+- [LinkedIn Outreach](https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1) — 找到符合你 ICP 且付得起你的公司决策人，撰写个性化加好友附言，并每天安全发送。 <sub>作者 [blay](https://x.com/blayonX) · [出处](https://x.com/blayonX/status/2110328541116350837)</sub>
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — 在 LinkedIn 上找人并筛选，再排好浏览、加好友和私信。 <sub>作者 [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
 - [ListBot — eBay Listing Generator](https://x.ai/bot/RHzmeKCzRqayDEgEqUNea) — 一张照片生成完整eBay上架，含成交价、80字标题、结构化描述与含费定价。 <sub>作者 [Pixel](https://x.com/JPipo86) (@JPipo86) · [出处](https://x.com/JPipo86/status/2104737083202183428)</sub>
 - [Listing Polish](https://x.ai/bot/v-rXX1htNDDMR110ZovcW) — 改写Airbnb/VRBO与Etsy上架文案，提高转化却不写得像垃圾广告。 <sub>作者 [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
@@ -175,6 +182,7 @@
 - [Outreach Agent](https://x.ai/bot/wexM_NUvEByvLwrnTR_F3) — 给创始人和销售团队的每日暖外联操盘手，先压着不发等你过目。 <sub>作者 [Eric](https://x.com/ericosiu)</sub>
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) — 个人健康护理代理，冷静务实，帮你找零费用或优先路径并导航下一步。 <sub>作者 [𝔻](https://x.com/durdy1) (@durdy1)</sub>
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — 把 Google Ads、Meta 与 LinkedIn 导出收成带点评的周报，并在 Slack 用真数回答。
+- [Paid Partnership Finder](https://x.ai/bot/GDYcubpm7IMGco1qI0jHv) — 为创作者寻找、筛选并促成付费合作、赞助和联盟分成交易，起草联络信并维护简单的交易管道。
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) — 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方。 <sub>作者 [Dr.](https://x.com/SurrealSpin) (@SurrealSpin)</sub>
 - [Personal Assistant](https://x.ai/bot/3hissja8d2xjHliXdnmm4) — 物业跟进用的房东外联台。 <sub>作者 [Alex](https://x.com/Lex_Vasquez23) (@Lex_Vasquez23) · 社区旧称 *Chase*</sub>
 - [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) — 你的求职搭档：寻找并给职位打分，维护你的简历（Word 和 PDF），追踪每份申请并起草外联消息。 <sub>作者 [Jay](https://x.com/ptyfly4aputiguy) (@ptyfly4aputiguy)</sub>
