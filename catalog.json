@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4231,
+    "live": 4232,
     "retired": 17,
     "by_category": {
       "coding-shipping": 304,
@@ -15,7 +15,7 @@
       "research-briefings": 689,
       "customer-sales": 265,
       "finance-ops": 272,
-      "content-publishing": 433,
+      "content-publishing": 434,
       "personal-admin": 1666,
       "teams-handoffs": 223
     }
@@ -143224,6 +143224,36 @@
         }
       ],
       "checked": "2026-10-16",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "scorecard",
+      "name": "Scorecard",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Weekly fight-card scoring of your X posts against your 4-week baseline, plus 3 data-backed fixes.",
+      "summary_zh": "每周把你的 X 帖子按对战卡打分，对照你自己的四周基线，并给出 3 条有数据依据的改法。",
+      "official_summary": "Every Monday, judges your last week on X like a fight: a fight-card image scored with X's open-source ranking weights against your own 4-week baseline,...",
+      "import": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who",
+      "bot_id": "tEsWijg6kaDbi-3aY6who",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "analytics",
+        "social",
+        "content"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who"
+        }
+      ],
+      "checked": "2026-10-17",
       "link_status": 200,
       "license": "CC0-1.0"
     }
