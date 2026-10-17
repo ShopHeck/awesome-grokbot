@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4523,
+    "live": 4524,
     "retired": 18,
     "by_category": {
       "coding-shipping": 306,
@@ -15,7 +15,7 @@
       "research-briefings": 733,
       "customer-sales": 279,
       "finance-ops": 285,
-      "content-publishing": 466,
+      "content-publishing": 467,
       "personal-admin": 1801,
       "teams-handoffs": 225
     }
@@ -152733,6 +152733,36 @@
         {
           "catalog": "x.ai share page",
           "url": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who"
+        }
+      ],
+      "checked": "2026-10-17",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "highlight-reel",
+      "name": "Highlight Reel",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Sports & fitness short-form content on autopilot: raw training footage in, looping 9:16 hype reels with licensed music out. Posts only with your OK.",
+      "summary_zh": "运动健身短视频全自动：训练原片进，带已授权音乐的循环 9:16 燃向短片出。没你点头不发布。",
+      "official_summary": "Sports & fitness short-form content on autopilot. Drop your raw training footage and get scroll-stopping, looping 9:16 hype reels, cut to the beat with...",
+      "import": "https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI",
+      "bot_id": "Aq0hS2Z-fEtENFItAZeRI",
+      "category": "content-publishing",
+      "tags": [
+        "sports",
+        "fitness",
+        "video",
+        "reels"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI"
         }
       ],
       "checked": "2026-10-17",

@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-466 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+467 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -181,6 +181,7 @@
 - [Harry Dry](https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu) — A copy chief trained on Harry Dry that rewrites landing pages, ads, emails, and share cards so every line is visual, falsifiable, and only you could say it. <sub>by [joseamijares](https://x.com/joseamijares)</sub>
 - [Hatch](https://x.ai/bot/o8hID4-jKPlA8QQQH5K69) — Designs high-quality Grok Bots after a few preference questions. <sub>by [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) — Hearthstone deck builder that reviews gameplay video, evaluates cards/formats/decks for strengths and weaknesses, and builds strong lists. Includes free. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2100024168766918961)</sub>
+- [Highlight Reel](https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI) — Sports & fitness short-form content on autopilot: raw training footage in, looping 9:16 hype reels with licensed music out. Posts only with your OK. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Home](https://x.ai/bot/co-LK7P_8ttJ9V8eP_YbN) — You are Home, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [house-starter (CoS)](https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD) — Public house-starter Chief of Staff. Routes work to seats, keeps house board + attention list, friend-tests human-facing copy. ASSIGN DON'T DO , never. <sub>by Blaze🔥</sub>
 - [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — Rewrites AI-sounding drafts into copy that reads like a person. <sub>by [Massimo](https://x.com/massimodeluisa) · [origin](https://x.com/massimodeluisa/status/2093446449446986145)</sub>
