@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-435 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+436 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -126,6 +126,7 @@
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) — A senior product design partner for designers and product teams: wireframes, HTML/CSS prototypes, UX writing, audits, IA diagrams, scoping. <sub>by [Wil](https://x.com/wmurillo_eth)</sub>
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) — Owns the component registry, interface contracts, naming conventions, and architecture gates between Definition and Development. <sub>by Ash</sub>
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) — Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line. <sub>by ZEU$</sub>
+- [Distill](https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih) — One source in, ten ranked ready-to-post drafts out, in your voice. Posts only with your OK. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [DJ Grok Bot](https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm) — Personal Spotify DJ for daily mood playlists from your taste. <sub>by [Daniel](https://x.com/restaurant_boy) (@restaurant_boy)</sub>
 - [Dnd](https://x.ai/bot/llmJc5n7NsC1ZUpL4YUdx) — Group-chat dungeon master for streamlined D&D 5e. Seats your friends in one room: character sheets, hybrid dice, combat, scene images, adventure hooks,. <sub>by [Brice](https://x.com/briceayres) (@briceayres)</sub>
 - [Do You Know It](https://x.ai/bot/qqri--MjKj0It7LYwqYqu) — Drop an EPUB or PDF and get a Check/Reveal self-check quiz from the real chapter text — no gradebook. Built for students and self-learners who want to. <sub>by [Ford](https://x.com/FordCrews) (@FordCrews)</sub>
