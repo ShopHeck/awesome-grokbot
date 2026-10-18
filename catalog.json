@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4524,
+    "live": 4525,
     "retired": 18,
     "by_category": {
       "coding-shipping": 306,
@@ -15,7 +15,7 @@
       "research-briefings": 733,
       "customer-sales": 279,
       "finance-ops": 285,
-      "content-publishing": 467,
+      "content-publishing": 468,
       "personal-admin": 1801,
       "teams-handoffs": 225
     }
@@ -152766,6 +152766,36 @@
         }
       ],
       "checked": "2026-10-17",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "distill",
+      "name": "Distill",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "One source in, ten ranked ready-to-post drafts out, in your voice. Posts only with your OK.",
+      "summary_zh": "一份素材进，十条按你口吻排好、可直接发的草稿出。没你点头不发布。",
+      "official_summary": "One source in, ten ranked ready-to-post drafts out, in your voice. Nothing posts without your OK.",
+      "import": "https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih",
+      "bot_id": "dPj7ysFWJ-nTtWPwiZlih",
+      "category": "content-publishing",
+      "tags": [
+        "drafts",
+        "voice",
+        "publishing",
+        "social"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih"
+        }
+      ],
+      "checked": "2026-10-18",
       "link_status": 200,
       "license": "CC0-1.0"
     }
