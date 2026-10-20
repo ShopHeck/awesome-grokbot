@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-302 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+303 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -277,6 +277,7 @@
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分。 <sub>作者 [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) — 丢进一张账单。看看附近新客户付多少，并给出把价格谈下来的完整话术。电话你自己打。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105818511629062596)</sub>
 - [Usage Budget Guard](https://x.ai/bot/Di1Pd3rXW3cxCcyUv-KdX) — 避免 bot 在简单任务上烧额度：标出最耗用量的例程，并建议更省的设置。 <sub>作者 [Jared](https://x.com/dcostaverage)</sub>
 - [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) — 让你的 Grok Bot 保持在每周用量预算内，并审计 bot 和例程中可删减、合并或放慢的部分。 <sub>作者 [Michael](https://x.com/MikeysMolecules)</sub>

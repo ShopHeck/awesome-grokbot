@@ -7,15 +7,15 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4936,
+    "live": 4938,
     "retired": 26,
     "by_category": {
       "coding-shipping": 313,
       "inbox-calendar": 471,
       "research-briefings": 784,
       "customer-sales": 290,
-      "finance-ops": 302,
-      "content-publishing": 526,
+      "finance-ops": 303,
+      "content-publishing": 527,
       "personal-admin": 2024,
       "teams-handoffs": 226
     }
@@ -166026,6 +166026,66 @@
         }
       ],
       "checked": "2026-10-18",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "undercut",
+      "name": "Undercut",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+      "summary_zh": "丢进一张账单。看看附近新客户付多少，并给出把价格谈下来的完整话术。电话你自己打。",
+      "official_summary": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+      "import": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+      "bot_id": "mzY8PRsWQZCuKuTEFQteB",
+      "category": "finance-ops",
+      "tags": [
+        "bills",
+        "negotiation",
+        "savings",
+        "subscriptions"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB"
+        }
+      ],
+      "checked": "2026-10-20",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "sponsor-scout",
+      "name": "Sponsor Scout",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Finds brands already sponsoring creators like you (fighters, athletes, newsletter writers), verifies contacts, and drafts pitches you send yourself. Setup asks which niches are off-limits.",
+      "summary_zh": "找出已经在赞助同类创作者（格斗选手、运动员、通讯写作者）的品牌，核实联系人，并起草由你自己发出的提案。设置时会问哪些领域不能碰。",
+      "official_summary": "Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch. You hit send. Built for fighters, athletes, newsletter...",
+      "import": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+      "bot_id": "HK7rbeEuMNDD3_RbYyvx6",
+      "category": "content-publishing",
+      "tags": [
+        "sponsors",
+        "pitches",
+        "creators",
+        "outreach"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6"
+        }
+      ],
+      "checked": "2026-10-20",
       "link_status": 200,
       "license": "CC0-1.0"
     }
