@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-272 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+273 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -252,6 +252,7 @@
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分。 <sub>作者 [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) — 丢进一张账单。看看附近新客户付多少，并给出把价格谈下来的完整话术。电话你自己打。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105818511629062596)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>官方</sup> — 没有正经 API 的采购门户也能跑：续约、席位、下单每周点同一条路，只回报异常。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
