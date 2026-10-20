@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-436 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+437 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -344,6 +344,7 @@
 - [Songwriter](https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ) — Studio door for songwriting. Stands up a songwriter specialist, then routes lyrics, choruses, progressions, and structure in text so someone else can. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — Takes one public claim apart into an evidence-graded source ledger (E0–E4). Sources only. No verdict. Send one sentence and one source. <sub>by [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) — Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps. <sub>by Jeroen</sub>
+- [Sponsor Scout](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) — Finds brands already sponsoring creators like you (fighters, athletes, newsletter writers), verifies contacts, and drafts pitches you send yourself. Setup asks which niches are off-limits. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) — A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human. <sub>by [Eric](https://x.com/ericosiu)</sub>
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions. <sub>[origin](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — Adversarial startup evaluator for founders who want their idea stress-tested before they waste months building. Drop a concept and get a KILL, REWORK,. <sub>by [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>

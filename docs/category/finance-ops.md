@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-272 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+273 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -252,6 +252,7 @@
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when. <sub>by [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — Finds real trip deals from your hub airports, fits them to open calendar windows, and plans by vibe , with honest prices and no invented “normally. <sub>by [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray desk for trading workflows. <sub>by [XO](https://x.com/Ortix008) (@Ortix008)</sub>
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) — Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — TY2026 crypto tax prep for custodial PDF/CSV or connectors, Form 8949 minded with a December TLH check-in. <sub>by [Steve](https://x.com/scgerber) (@scgerber) · [origin](https://x.com/scgerber/status/2105818511629062596)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>official</sup> — Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
