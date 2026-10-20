@@ -1,13 +1,13 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">4525 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
+<h3 align="center">4936 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-4525-blueviolet?style=flat-square" alt="Live shares"></a>
-  <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--10--17-success?style=flat-square" alt="Links checked"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-4936-blueviolet?style=flat-square" alt="Live shares"></a>
+  <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--10--20-success?style=flat-square" alt="Links checked"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
 </p>
@@ -21,12 +21,12 @@
 ## ⚡️ What's different
 
 <table>
-  <tr><td align="right"><b>4525</b></td><td>live shares, every link fetched on 2026-10-17 — not copied from another list</td></tr>
+  <tr><td align="right"><b>4936</b></td><td>live shares, every link fetched on 2026-10-20 — not copied from another list</td></tr>
   <tr><td align="right"><b>daily</b></td><td>re-checked and synced against four upstream catalogs by <a href=".github/workflows/daily-update.yml">a scheduled job</a>, not a one-off scrape</td></tr>
-  <tr><td align="right"><b>18</b></td><td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, not left rotting in place</td></tr>
-  <tr><td align="right"><b>4525</b></td><td>rows with a hand-written Chinese summary</td></tr>
-  <tr><td align="right"><b>4525</b></td><td>rows naming the catalog they came from — 2035 also link the original post</td></tr>
-  <tr><td align="right"><b>121</b></td><td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>
+  <tr><td align="right"><b>26</b></td><td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, not left rotting in place</td></tr>
+  <tr><td align="right"><b>4936</b></td><td>rows with a hand-written Chinese summary</td></tr>
+  <tr><td align="right"><b>4936</b></td><td>rows naming the catalog they came from — 2122 also link the original post</td></tr>
+  <tr><td align="right"><b>129</b></td><td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>
   <tr><td align="right"><b><a href="https://kydlikebtc.github.io/awesome-grokbot/#official=1">56</a></b></td><td>published by an organisation itself rather than an individual — SpaceX, marked <sup>official</sup> in the lists</td></tr>
 </table>
 
@@ -42,23 +42,23 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <p align="center">
   <a href="https://kydlikebtc.github.io/awesome-grokbot/"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
-  <sub>Instant search over all 4525 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
+  <sub>Instant search over all 4936 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
 </p>
 
 **Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:
 
 <p align="center">
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>306</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>428</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>733</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>279</b></a><br>
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>285</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>468</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>1801</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>225</b></a>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>313</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>471</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>784</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>290</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>302</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>526</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>2024</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>226</b></a>
 </p>
 
 ## 📖 Quick links
 
 | Go to | For |
 | --- | --- |
-| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 4525 rows in the browser |
-| 📦 [`catalog.json`](catalog.json) | All 4525 live entries, schema-validated |
-| 🪦 [`retired.json`](retired.json) | 18 shares that stopped resolving |
+| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 4936 rows in the browser |
+| 📦 [`catalog.json`](catalog.json) | All 4936 live entries, schema-validated |
+| 🪦 [`retired.json`](retired.json) | 26 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
 | 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |
 | 🤖 [Scout routine](docs/routine.md) | A Grok Bot routine that finds new shares on X, first-hand |
@@ -82,34 +82,34 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/coding-shipping.md">🛠️ Coding &amp; shipping</a></strong><br><sub>306 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/inbox-calendar.md">📥 Inbox &amp; calendar</a></strong><br><sub>428 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/research-briefings.md">🔍 Research &amp; briefings</a></strong><br><sub>733 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/customer-sales.md">🤝 Customer &amp; sales</a></strong><br><sub>279 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/coding-shipping.md">🛠️ Coding &amp; shipping</a></strong><br><sub>313 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/inbox-calendar.md">📥 Inbox &amp; calendar</a></strong><br><sub>471 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/research-briefings.md">🔍 Research &amp; briefings</a></strong><br><sub>784 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/customer-sales.md">🤝 Customer &amp; sales</a></strong><br><sub>290 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/finance-ops.md">💰 Finance &amp; ops</a></strong><br><sub>285 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/content-publishing.md">✍️ Content &amp; publishing</a></strong><br><sub>468 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/personal-admin.md">🏠 Personal admin</a></strong><br><sub>1801 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/teams-handoffs.md">🧭 Teams &amp; handoffs</a></strong><br><sub>225 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/finance-ops.md">💰 Finance &amp; ops</a></strong><br><sub>302 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/content-publishing.md">✍️ Content &amp; publishing</a></strong><br><sub>526 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/personal-admin.md">🏠 Personal admin</a></strong><br><sub>2024 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/teams-handoffs.md">🧭 Teams &amp; handoffs</a></strong><br><sub>226 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
   </tr>
 </table>
 
 | Category | Bots |
 | --- | ---: |
-| [🛠️ Coding & shipping](docs/category/coding-shipping.md) | 306 |
-| [📥 Inbox & calendar](docs/category/inbox-calendar.md) | 428 |
-| [🔍 Research & briefings](docs/category/research-briefings.md) | 733 |
-| [🤝 Customer & sales](docs/category/customer-sales.md) | 279 |
-| [💰 Finance & ops](docs/category/finance-ops.md) | 285 |
-| [✍️ Content & publishing](docs/category/content-publishing.md) | 468 |
-| [🏠 Personal admin](docs/category/personal-admin.md) | 1801 |
-| [🧭 Teams & handoffs](docs/category/teams-handoffs.md) | 225 |
-| **Total** | **4525** |
+| [🛠️ Coding & shipping](docs/category/coding-shipping.md) | 313 |
+| [📥 Inbox & calendar](docs/category/inbox-calendar.md) | 471 |
+| [🔍 Research & briefings](docs/category/research-briefings.md) | 784 |
+| [🤝 Customer & sales](docs/category/customer-sales.md) | 290 |
+| [💰 Finance & ops](docs/category/finance-ops.md) | 302 |
+| [✍️ Content & publishing](docs/category/content-publishing.md) | 526 |
+| [🏠 Personal admin](docs/category/personal-admin.md) | 2024 |
+| [🧭 Teams & handoffs](docs/category/teams-handoffs.md) | 226 |
+| **Total** | **4936** |
 
 ## 🪦 Retired shares
 
-These 18 shares appear in upstream catalogs but no longer resolve as of 2026-10-17. They are listed so you can recognise a stale link elsewhere, not so you can import them.
+These 26 shares appear in upstream catalogs but no longer resolve as of 2026-10-20. They are listed so you can recognise a stale link elsewhere, not so you can import them.
 
 | Bot | Status | Last seen in |
 | --- | :---: | --- |
@@ -131,6 +131,14 @@ These 18 shares appear in upstream catalogs but no longer resolve as of 2026-10-
 | `Fab Four` | `HTTP 404` | majiayu000, cs68614-hash |
 | `Sanity` | `HTTP 404` | majiayu000, ZeroPointRepo, elie222 |
 | `City Council Notes` | `HTTP 404` | majiayu000, cs68614-hash |
+| `Finance Fish` | `HTTP 404` | majiayu000, cs68614-hash |
+| `Research Lead` | `HTTP 404` | majiayu000, cs68614-hash |
+| `ShopFloor Chief` | `HTTP 404` | majiayu000, cs68614-hash |
+| `Polymarket Scans` | `HTTP 404` | majiayu000, cs68614-hash |
+| `AI Context & Skills Hub` | `HTTP 404` | majiayu000 |
+| `coffee companion` | `HTTP 404` | majiayu000, cs68614-hash, ZeroPointRepo |
+| `Dinner Plan` | `HTTP 404` | majiayu000, cs68614-hash |
+| `What Would Jesus Do?` | `HTTP 404` | majiayu000, cs68614-hash |
 
 <a name="section-method"></a>
 
@@ -141,12 +149,12 @@ The catalog is a merge of four community sources plus a first-party verification
 | Step | Result |
 | --- | --- |
 | Unique share ids found across 4 catalogs | 365 |
-| Answered under 400 on 2026-10-17 | **4525** |
-| Answered 404 across two sweeps → `retired.json` | 18 |
-| Rows enriched with first-party `og:` metadata | 4525 |
-| Rows whose live name differs from the community catalogs | 121 (5 substantive, 27 qualifier-only) |
-| Rows attributed to 2+ upstream catalogs | 3531 |
-| Rows with a Chinese summary | 4525 / 4525 |
+| Answered under 400 on 2026-10-20 | **4936** |
+| Answered 404 across two sweeps → `retired.json` | 26 |
+| Rows enriched with first-party `og:` metadata | 4936 |
+| Rows whose live name differs from the community catalogs | 129 (5 substantive, 27 qualifier-only) |
+| Rows attributed to 2+ upstream catalogs | 3905 |
+| Rows with a Chinese summary | 4936 / 4936 |
 
 Reproduce it yourself with [`scripts/check_links.py`](scripts/check_links.py) (re-sweeps every share) and [`scripts/lint.py`](scripts/lint.py) (validates against [`schema/entry.schema.json`](schema/entry.schema.json)). Method notes: [docs/method.md](docs/method.md).
 
@@ -177,9 +185,9 @@ Full attribution and licence notes: [docs/sources.md](docs/sources.md).
 
 <a href="https://www.star-history.com/?repos=kydlikebtc%2Fawesome-grokbot&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-17" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-17" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-17" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
   </picture>
 </a>
 

@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-17",
+  "checked": "2026-10-20",
   "entries": [
     {
       "slug": "bot-creator",
@@ -613,6 +613,270 @@
       ],
       "first_seen": "2026-09-16",
       "checked": "2026-10-17",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "finance-fish",
+      "name": "Finance Fish",
+      "author": {
+        "name": "Bo",
+        "handle": "CaptPirateBo",
+        "url": "https://x.com/CaptPirateBo"
+      },
+      "summary": "Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only; never moves money without your yes.",
+      "summary_zh": "个人债务和现金流机器人，把乱七八糟的信用卡理成清晰的还款计划，只读，没你点头绝不动钱",
+      "official_summary": "🐟 Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only money pulls, avalanche math, and calm weekly check-ins....",
+      "import": "https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo",
+      "bot_id": "VKYVjjZqmbDHxXj0H0fwo",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-10-19",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "research-lead",
+      "name": "Research Lead",
+      "author": {
+        "name": "Scott",
+        "handle": "TraderScottyS",
+        "url": "https://x.com/TraderScottyS"
+      },
+      "summary": "Fans out financials/products/pipeline/risk into one ticker memo.",
+      "summary_zh": "把财务／产品／管线／风险铺开，合成一份 ticker 备忘。",
+      "official_summary": "Leads a public-company equity research pod. Assigns Financials, Products, Pipeline, and Risk, then stitches one primary-source memo — business,...",
+      "import": "https://x.ai/bot/sF0FLiic1qUdaYsqoHtBL",
+      "bot_id": "sF0FLiic1qUdaYsqoHtBL",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-10-19",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "shopfloor-chief",
+      "name": "ShopFloor Chief",
+      "author": {
+        "name": "Dex",
+        "handle": "Dex_01_",
+        "url": "https://x.com/Dex_01_"
+      },
+      "summary": "Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake",
+      "summary_zh": "面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏",
+      "official_summary": "Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake...",
+      "import": "https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7",
+      "bot_id": "cpot_pp7mCHB0BuKVwqq7",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "outreach",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "polymarket-scans",
+      "name": "Polymarket Scans",
+      "author": {
+        "name": "h",
+        "handle": "automaticslay",
+        "url": "https://x.com/automaticslay"
+      },
+      "summary": "Polymarket US placer desk: scans the live book with public references, sizes with Kelly, and places at most one limit when 8pp still clears. Hourly",
+      "summary_zh": "Polymarket 美盘下注桌，结合公开参考扫描现场盘口并控制仓位",
+      "official_summary": "Polymarket US placer desk: scans the live book with public references, sizes with Kelly, and places at most one limit when 8pp still clears. Hourly...",
+      "import": "https://x.ai/bot/x_TnIafQbUyz5XbDGMz20",
+      "bot_id": "x_TnIafQbUyz5XbDGMz20",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "ops",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-20",
+      "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "ai-context-skills-hub",
+      "name": "AI Context & Skills Hub",
+      "author": {
+        "name": "romeo"
+      },
+      "summary": "Shared Notion hub so Grok Bot, Claude, and ChatGPT share context and skills.",
+      "summary_zh": "在 Notion 建共享上下文与技能中心，让 Grok Bot、Claude、ChatGPT 共用。",
+      "official_summary": "Sets up a shared AI Context & Skills Hub in Notion so Grok Bot, Claude and ChatGPT share your context and skills, routes work to Claude and GPT through...",
+      "import": "https://x.ai/bot/rAhhI5cD__CnejfWqf3wH",
+      "bot_id": "rAhhI5cD__CnejfWqf3wH",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-18",
+      "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "coffee-companion",
+      "name": "coffee companion",
+      "author": {
+        "name": "Andy",
+        "handle": "andymadrick",
+        "url": "https://x.com/andymadrick"
+      },
+      "summary": "Works out how to brew each new bag and keeps the log in Notion",
+      "summary_zh": "给每一袋新豆子算出冲法，并把冲煮记录写进 Notion。",
+      "official_summary": "A pour-over coffee companion that researches new bags, writes full recipe cards, logs beans and brews in Notion, and follows up for tasting notes. Built...",
+      "import": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+      "bot_id": "SqO-_5207iInz0iDSAFVW",
+      "category": "personal-admin",
+      "tags": [
+        "coffee",
+        "notion",
+        "home"
+      ],
+      "origin": "https://x.com/andymadrick/status/2095287853450399859",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-03",
+      "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "dinner-plan",
+      "name": "Dinner Plan",
+      "author": {
+        "name": "Marcus",
+        "url": "https://x.com/marcusramsey"
+      },
+      "summary": "Snap your fridge, freezer, and pantry and get meals you can make tonight, sized for your family.",
+      "summary_zh": "拍下冰箱、冷冻柜和储物柜，得到今晚就能做、按家庭人数配好的菜",
+      "official_summary": "Snap your fridge, freezer, and pantry and get meals you can make tonight, sized for your family. Builds shopping lists from your nearest store and warns...",
+      "import": "https://x.ai/bot/yrWT9QgctKunkUQkWeo2b",
+      "bot_id": "yrWT9QgctKunkUQkWeo2b",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "family"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-19",
+      "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "what-would-jesus-do",
+      "name": "What Would Jesus Do?",
+      "author": {
+        "name": "Cristian",
+        "handle": "fireitup365",
+        "url": "https://x.com/fireitup365"
+      },
+      "summary": "Life advice from Jesus’s recorded Gospel words only.",
+      "summary_zh": "只根据耶稣在福音书中的记录话语给人生建议。",
+      "official_summary": "Life advice from Jesus’s recorded Gospel words only. Short answers; marks when he didn’t speak to something and labels any extrapolation.",
+      "import": "https://x.ai/bot/GM_1Lh44jlHxEcT148pXg",
+      "bot_id": "GM_1Lh44jlHxEcT148pXg",
+      "category": "personal-admin",
+      "tags": [
+        "life",
+        "personal",
+        "admin"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-22",
+      "checked": "2026-10-20",
       "link_status": 404,
       "license": "CC0-1.0"
     }

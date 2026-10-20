@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-225 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+226 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -20,6 +20,7 @@
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — 把其它机器人的提醒念出来，从旁边音箱播给你听。 <sub>作者 [Dave](https://x.com/the_davey) (@the_davey) · [出处](https://x.com/the_davey/status/2098211142694764750)</sub>
 - [Application Team Lead](https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC) — 统筹求职全流程，收集材料找匹配岗位并分发投递。 <sub>作者 [Bennett](https://x.com/Kenook_) (@Kenook_) · [出处](https://x.com/Kenook_/status/2106113932767252725)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递。 <sub>作者 [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [出处](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
+- [Ask Your Bot](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — 嘴贫的前台，帮你调度已经在跑的 Bot。 <sub>作者 [BitsOfJT](https://x.com/BitsOfJT) · [出处](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
 - [Bloks](https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg) — 把项目简报走完七步到可开工交接，文档落在 Notion。 <sub>作者 [Nadine](https://x.com/NadineCodes) (@NadineCodes) · [出处](https://x.com/NadineCodes/status/2106166373697327535)</sub>
 - [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — 帮一个家庭冷静走完 NCAA D1 到 D3 招生日程与规则。 <sub>作者 [Doyle](https://x.com/Doyle)</sub>
@@ -107,7 +108,6 @@
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot 专家，帮你设计与调试其它机器人。 <sub>作者 [Yutaka](https://x.com/_inady_) (@_inady_) · [出处](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — 对照你写的规则审计整队 bot，标出重叠和跑偏。 <sub>作者 [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [出处](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
-- [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Grottle™](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — 把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。 <sub>作者 [BCORN](https://x.com/BCornTexas) · 社区旧称 *Grottle* · [出处](https://x.com/BCornTexas/status/2099580443943227590)</sub>
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — 一大家子 Grok Bot 帮手的幕僚长。 <sub>作者 [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>
@@ -162,6 +162,7 @@
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) — 给舰队里每个 Bot 做统一风格的 3D 角色肖像。 <sub>作者 [Federico](https://x.com/viticci) (@viticci) · [出处](https://x.com/viticci/status/2096287330940129357)</sub>
 - [Product Ops](https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv) — 把冻结清单变成团队每周要交付的核对表。 <sub>作者 [Ashish](https://x.com/inqusit) · [出处](https://x.com/inqusit/status/2093513553613656106)</sub>
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — 把一队 Grok Bot 当项目组织来跑，以 Notion 为准。 <sub>作者 [Eric](https://x.com/ericzakariasson) · [出处](https://x.com/ericzakariasson/status/2093381689041109349)</sub>
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) — 关于聘请持证公共保险公估人的问答，并指向 PublicAdjusters.fyi。 <sub>作者 Pooria (@Pooria Arab)</sub>
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) — 把 Bot 做出的东西变成私密链接上的活页面。 <sub>作者 [Steve](https://x.com/stevy_smith) (@stevy_smith) · [出处](https://x.com/stevy_smith/status/2093464213268127932)</sub>
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — 发布前最后一道关，只问够不够上线、能不能站得住。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — 公开的 AI 运营台模板，协调日常代理事务。 <sub>作者 [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>

@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-225 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+226 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -20,6 +20,7 @@
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — Speaks other bots' alerts out loud through nearby speakers. <sub>by [Dave](https://x.com/the_davey) (@the_davey) · [origin](https://x.com/the_davey/status/2098211142694764750)</sub>
 - [Application Team Lead](https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC) — Runs your job hunt by gathering materials, finding matching roles, and fanning out applications. <sub>by [Bennett](https://x.com/Kenook_) (@Kenook_) · [origin](https://x.com/Kenook_/status/2106113932767252725)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — Runs research fit-grade and draft for role searches then stops for your OK, never invents credentials or applies alone. <sub>by [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [origin](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
+- [Ask Your Bot](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — A single coordinator that routes work to a small, deliberately lean bot bench. <sub>by [Joseph](https://x.com/BTC_Yogi) · aka *Chief of Staff* · [origin](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — A wisecracking front end for coordinating the bots you already run. <sub>by [BitsOfJT](https://x.com/BitsOfJT) · [origin](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
 - [Bloks](https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg) — Walks a project brief through seven stages to a build-ready handoff with docs in Notion. <sub>by [Nadine](https://x.com/NadineCodes) (@NadineCodes) · [origin](https://x.com/NadineCodes/status/2106166373697327535)</sub>
 - [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — A calm, expert recruiting desk for one family navigating NCAA D1, D2, or D3 recruiting in any sport. It explains the rules and dates with official. <sub>by [Doyle](https://x.com/Doyle)</sub>
@@ -107,7 +108,6 @@
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot specialist that helps you design and debug other bots. <sub>by [Yutaka](https://x.com/_inady_) (@_inady_) · [origin](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — A coding foreman that delegates to sandboxed agents and reviews their work. <sub>by [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [origin](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — Audits your bot fleet against written rules and flags overlap. <sub>by [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [origin](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
-- [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — A single coordinator that routes work to a small, deliberately lean bot bench. <sub>by [Joseph](https://x.com/BTC_Yogi) · aka *Chief of Staff* · [origin](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Grottle™](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — Turns weekly Grok Bot usage percent and reset time into an easier fuel gauge. <sub>by [BCORN](https://x.com/BCornTexas) · aka *Grottle* · [origin](https://x.com/BCornTexas/status/2099580443943227590)</sub>
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — Chief of staff for a Grok Bot family of helpers. <sub>by [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — Household chief of staff that keeps the family's helper bots in step. <sub>by [Mike](https://x.com/shootthebull) (@shootthebull) · [origin](https://x.com/shootthebull/status/2100685236707197420)</sub>
@@ -162,6 +162,7 @@
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) — Gives every bot in your fleet a matching 3D character portrait. <sub>by [Federico](https://x.com/viticci) (@viticci) · [origin](https://x.com/viticci/status/2096287330940129357)</sub>
 - [Product Ops](https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv) — Turns a freeze list into a weekly ship checklist for the team. <sub>by [Ashish](https://x.com/inqusit) · [origin](https://x.com/inqusit/status/2093513553613656106)</sub>
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — Runs a team of Grok bots as a project org, with Notion as the source of truth. <sub>by [Eric](https://x.com/ericzakariasson) · [origin](https://x.com/ericzakariasson/status/2093381689041109349)</sub>
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) — Hiring a licensed public insurance adjuster, with pointers to PublicAdjusters.fyi pages. <sub>by Pooria (@Pooria Arab)</sub>
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) — Turns anything your bot makes into a live page on a private link. <sub>by [Steve](https://x.com/stevy_smith) (@stevy_smith) · [origin](https://x.com/stevy_smith/status/2093464213268127932)</sub>
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — Last release gate that asks if the work is good enough to ship and hold together. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — Public AI ops desk template for coordinating day-to-day agent work. <sub>by [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>
