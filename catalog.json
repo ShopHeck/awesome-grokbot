@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4236,
+    "live": 4237,
     "retired": 17,
     "by_category": {
       "coding-shipping": 304,
@@ -16,7 +16,7 @@
       "customer-sales": 265,
       "finance-ops": 273,
       "content-publishing": 437,
-      "personal-admin": 1666,
+      "personal-admin": 1667,
       "teams-handoffs": 223
     }
   },
@@ -143374,6 +143374,36 @@
         }
       ],
       "checked": "2026-10-20",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "covered",
+      "name": "Covered",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Finds the free recall repairs, replacements, and warranty claims you're owed on what you own, and drafts the claim.",
+      "summary_zh": "找出你名下物品可享的免费召回维修、更换和保修索赔，并起草索赔材料，由你自己提交。",
+      "official_summary": "Covered finds the free repairs, replacements, and warranty claims you're already owed on the stuff you own, and drafts the claim. You file it.",
+      "import": "https://x.ai/bot/JE8skJITEDqsPpFOZUsBh",
+      "bot_id": "JE8skJITEDqsPpFOZUsBh",
+      "category": "personal-admin",
+      "tags": [
+        "recalls",
+        "warranty",
+        "household",
+        "claims"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/JE8skJITEDqsPpFOZUsBh"
+        }
+      ],
+      "checked": "2026-10-23",
       "link_status": 200,
       "license": "CC0-1.0"
     }
