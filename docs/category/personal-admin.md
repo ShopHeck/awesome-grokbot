@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-1666 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+1667 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -331,6 +331,7 @@
 - [Court](https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX) — Reads a stuck group chat and says what it actually decided. <sub>by [Don](https://x.com/DonBonStovi) (@DonBonStovi) · [origin](https://x.com/DonBonStovi/status/2096023951407485055)</sub>
 - [Court Portal File Clerk](https://x.ai/bot/YtzREAHPMPQLdAFN9zV2j) — For litigation firms: logs into your court's e-filing or case portal with the firm's own credentials and fetches only the named case file. <sub>by [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Coverage Desk](https://x.ai/bot/Xf744EvEIun3bzP0zdp0u) — Explains insurance declarations and coverage lists in plain English and never sells. <sub>by [Brian](https://x.com/lonzom10) · [origin](https://x.com/lonzom10/status/2104086012989477216)</sub>
+- [Covered](https://x.ai/bot/JE8skJITEDqsPpFOZUsBh) — Finds the free recall repairs, replacements, and warranty claims you're owed on what you own, and drafts the claim. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) — Deploys CLIProxyAPI on the cloud computer with a Cloudflare tunnel. <sub>by [Ba](https://x.com/licoycn) (@licoycn)</sub>
 - [Crave Coach](https://x.ai/bot/f5BhWohmAaB3bAIWdpUSR) — A kitchen buddy for losing weight and kicking sugar cravings: logs meals with photo estimates, tracks your day total. <sub>by [Mike](https://x.com/mikepat711) (@mikepat711)</sub>
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) — Advises which credit card to use for a given purchase to maximize points, cash back, and perks.
