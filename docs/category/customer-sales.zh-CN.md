@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-290 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+291 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -257,6 +257,7 @@
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — 按渠道整理故障报告，写好后由你贴进正确的支持表单。 <sub>作者 [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [出处](https://x.com/Fine_4451/status/2096010664636506121)</sub>
 - [Spec → Listing](https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Chill](https://x.com/MisledFan) (@MisledFan)</sub>
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) — 掌管有说服力的沟通训练，让写作与谈话真正进到人脑子里，粗鲁锋利不当软写作伴。 <sub>作者 [Michal](https://x.com/mpalczew) (@mpalczew)</sub>
+- [Sponsor Scout by Michael](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) — 找出已经在赞助类似创作者的品牌，找到真正的对接路径并起草提案，由你自己发送。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) — 把沉默线索捞回CRM，先发温和短信，Slack留否决窗，无人拦截再自动发出。 <sub>作者 Roberto · [出处](https://x.com/robertodjg/status/2102589053950431365)</sub>
 - [Store Manager](https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d) — 电商店总管，协调其他机器人把店铺跑通。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2105790823682003017)</sub>
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) — 盯着 Stripe 实时 MRR 与订阅，工作日早上汇总新客与退订及他们待了多久。 <sub>作者 [Erencan](https://x.com/appeeky) (@appeeky)</sub>

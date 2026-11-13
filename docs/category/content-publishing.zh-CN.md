@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-524 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+527 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -140,6 +140,7 @@
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) — 给设计师和产品团队的资深产品设计搭档：线框图、HTML/CSS 原型、UX 文案、走查、信息架构图和范围界定。 <sub>作者 [Wil](https://x.com/wmurillo_eth)</sub>
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) — 管组件注册表、接口契约、命名规范，以及从定义到开发之间的架构关卡。 <sub>作者 Ash</sub>
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) — 内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户。 <sub>作者 ZEU$</sub>
+- [Distill by Michael](https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih) — 一份来源进去，按你的语气输出十条排序好的待发草稿，未经你同意不会发布。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert) · [出处](https://x.com/MichaelHeckert/status/2113827903469461659)</sub>
 - [DJ Grok Bot](https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm) — 按你的口味做每日心情歌单的个人 Spotify DJ。 <sub>作者 [Daniel](https://x.com/restaurant_boy) (@restaurant_boy)</sub>
 - [Dnd](https://x.ai/bot/llmJc5n7NsC1ZUpL4YUdx) — 精简版第五版龙与地下城的群聊地下城主，把朋友安排在同一房间开打。 <sub>作者 [Brice](https://x.com/briceayres) (@briceayres)</sub>
 - [Do You Know It](https://x.ai/bot/qqri--MjKj0It7LYwqYqu) — 丢来 EPUB 或 PDF，按真实章节生成核对与揭晓式自测测验。 <sub>作者 [Ford](https://x.com/FordCrews) (@FordCrews)</sub>
@@ -358,6 +359,7 @@
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) — 转卖助手：把你的物品照片做成 eBay 和 Facebook Marketplace 商品页，经你批准后才发布。 <sub>作者 [Darryl](https://x.com/SrCaptainThrawn) · [出处](https://x.com/SrCaptainThrawn/status/2110155191387668934)</sub>
 - [Sanji](https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z) — 认真的约会教练，把简介开场白和回复改成两三种语气，不做操控套路。 <sub>作者 [Loki](https://x.com/LokiBytesBack) · [出处](https://x.com/LokiBytesBack/status/2106257693031981204)</sub>
 - [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) — 给任意媒介打零到十的科学真实感分，并分我们世界与作品内世界双轨。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2099993010993762734)</sub>
+- [Scorecard by Michael](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) — 每周一像拳赛记分卡一样，对照你过去四周的基线为上周的 X 表现打分，并给出 3 条有数据支撑的改进建议。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Scotty](https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6) — 决定精干团队下一步交付什么，并写出可粘贴简报。 <sub>作者 [Terry](https://x.com/DeepRiverRadio) (@DeepRiverRadio) · [出处](https://x.com/DeepRiverRadio/status/2105064247646626088)</sub>
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — 盯对手网站、搜索排名和 AI 回答里的曝光。 <sub>作者 [Adam](https://x.com/adamta) (@adamta) · 社区旧称 *Scout (Competitive Intelligence)* · [出处](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — 有证据的 UI 吐槽，外加带验收标准的修复简报。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
@@ -409,6 +411,7 @@
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决。 <sub>作者 [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — 标出稿子里平淡的机器腔，然后改写成能读的句子。 <sub>作者 [Bill](https://x.com/bfrench) (@bfrench) · [出处](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — 把手机短片拼成一条 MP4，并从 Epic Vault 取回媒体。 <sub>作者 [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [出处](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
+- [Stick Cut by Michael](https://x.ai/bot/rET0A-uXf1XKqb_z5vjwl) — 把正反两面的概念做成可循环的简笔画解说视频，用于 X、Reels 或 TikTok，由你自己发布。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert) · [出处](https://x.com/MichaelHeckert/status/2115100364940943710)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — 艺术工作室助手，排期、外联和标题。 <sub>作者 [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
 - [Suno Song Creator](https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5) — 构思歌曲点子，写好可直接粘贴到 Suno 的歌词、风格提示和标题。 <sub>作者 Tim</sub>
 - [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) — 在 Kajabi 里帮你搭建和维护课程，平台上的琐事不再占满你的一周。 <sub>作者 [Dave](https://x.com/gambrill) · [出处](https://x.com/gambrill/status/2107247246077046960)</sub>

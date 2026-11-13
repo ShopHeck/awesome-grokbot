@@ -2,7 +2,7 @@
 
 *买菜、家务后勤、家庭日程、健康和购物。*
 
-2024 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](personal-admin.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh)
+2025 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](personal-admin.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh)
 
 ---
 
@@ -400,6 +400,7 @@
 - [Court Portal File Clerk](https://x.ai/bot/YtzREAHPMPQLdAFN9zV2j) — 面向诉讼律所：用律所自己的账号登录法院电子立案或案件门户，只拉取指定案件的卷宗。 <sub>作者 [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Cousin Earl, the Biscuit Runner](https://x.ai/bot/rPwl9myovurldixTcbPux) — 你的 Chuckle Chow 采购员：把周日晚餐购物清单交给他，他在 Amazon Fresh、Walmart、Publix、Costco 或 Instacart 帮你装好购物车。 <sub>作者 [Barclay](https://x.com/Barclay53012457) (@Barclay53012457)</sub>
 - [Coverage Desk](https://x.ai/bot/Xf744EvEIun3bzP0zdp0u) — 用白话拆解保单声明页与保障清单，只解释不销售。 <sub>作者 [Brian](https://x.com/lonzom10) · [出处](https://x.com/lonzom10/status/2104086012989477216)</sub>
+- [Covered by Michael](https://x.ai/bot/JE8skJITEDqsPpFOZUsBh) — 找出你已有物品可免费维修、更换或保修索赔的机会，并起草索赔内容，由你自己提交。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert) · [出处](https://x.com/MichaelHeckert/status/2113712551670456582)</sub>
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) — 在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。 <sub>作者 [Ba](https://x.com/licoycn) (@licoycn)</sub>
 - [Crave](https://x.ai/bot/scGXxrePrIAaNmU78kDqL) — 挑剔的吃货朋友：找你附近值得吃的店，并告诉你该点哪几道菜。 <sub>作者 [Christopher](https://x.com/TheSystemsDad) (@TheSystemsDad)</sub>
 - [Crave Coach](https://x.ai/bot/f5BhWohmAaB3bAIWdpUSR) — 减肥和戒糖瘾的厨房搭子：拍照估算记录每餐，追踪全天总量。 <sub>作者 [Mike](https://x.com/mikepat711) (@mikepat711)</sub>

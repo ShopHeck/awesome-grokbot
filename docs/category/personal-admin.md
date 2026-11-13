@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-2024 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+2025 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -400,6 +400,7 @@
 - [Court Portal File Clerk](https://x.ai/bot/YtzREAHPMPQLdAFN9zV2j) — For litigation firms: logs into your court's e-filing or case portal with the firm's own credentials and fetches only the named case file. <sub>by [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Cousin Earl, the Biscuit Runner](https://x.ai/bot/rPwl9myovurldixTcbPux) — Your Chuckle Chow Shopper. Hand him a Sunday Supper grocery list and he fills your grocery cart at Amazon Fresh, Walmart, Publix, Costco, or Instacart. <sub>by [Barclay](https://x.com/Barclay53012457) (@Barclay53012457)</sub>
 - [Coverage Desk](https://x.ai/bot/Xf744EvEIun3bzP0zdp0u) — Explains insurance declarations and coverage lists in plain English and never sells. <sub>by [Brian](https://x.com/lonzom10) · [origin](https://x.com/lonzom10/status/2104086012989477216)</sub>
+- [Covered by Michael](https://x.ai/bot/JE8skJITEDqsPpFOZUsBh) — Finds free repairs, replacements, and warranty claims you're already owed, and drafts the claim. You file it. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert) · [origin](https://x.com/MichaelHeckert/status/2113712551670456582)</sub>
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) — Deploys CLIProxyAPI on the cloud computer with a Cloudflare tunnel. <sub>by [Ba](https://x.com/licoycn) (@licoycn)</sub>
 - [Crave](https://x.ai/bot/scGXxrePrIAaNmU78kDqL) — A picky food friend who finds what's worth eating near you, names the dishes to order. <sub>by [Christopher](https://x.com/TheSystemsDad) (@TheSystemsDad)</sub>
 - [Crave Coach](https://x.ai/bot/f5BhWohmAaB3bAIWdpUSR) — A kitchen buddy for losing weight and kicking sugar cravings: logs meals with photo estimates, tracks your day total. <sub>by [Mike](https://x.com/mikepat711) (@mikepat711)</sub>

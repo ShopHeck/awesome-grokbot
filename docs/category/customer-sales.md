@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-290 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+291 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -257,6 +257,7 @@
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — Writes the bug report you paste into the right support form. <sub>by [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [origin](https://x.com/Fine_4451/status/2096010664636506121)</sub>
 - [Spec → Listing](https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP) — Paste verified product facts and get a truthful listing draft - title, short description, key features, and anything missing. You copy to the store. <sub>by [Chill](https://x.com/MisledFan) (@MisledFan)</sub>
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) — Own persuasive communication training — writing and talking that gets into people’s heads. Rude, sharp coach. Not a friend. Not a soft writing buddy. ##. <sub>by [Michal](https://x.com/mpalczew) (@mpalczew)</sub>
+- [Sponsor Scout by Michael](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) — Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch. You hit send. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) — Revives quiet sales leads with warm CRM SMS, a Slack veto window, then auto-send if nobody blocks. <sub>by Roberto · [origin](https://x.com/robertodjg/status/2102589053950431365)</sub>
 - [Store Manager](https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d) — Ecommerce store Chief of Staff that coordinates other bots end to end. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2105790823682003017)</sub>
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) — A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new customers and cancels with how long they. <sub>by [Erencan](https://x.com/appeeky) (@appeeky)</sub>
